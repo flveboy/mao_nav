@@ -231,56 +231,56 @@ export const mockData = {
           "name": "drawDB",
           "url": "https://drawdb.io",
           "description": "在线数据库设计工具",
-          "icon": "/sitelogo/drawdb.io.ico"
+          "icon": "https://www.faviconextractor.com/favicon/drawdb.io"
         },
         {
           "id": "faststone",
           "name": "FastStone Capture",
           "url": "https://www.faststonesoft.net",
           "description": "屏幕截图与录屏工具",
-          "icon": "/sitelogo/www.faststonesoft.net.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.faststonesoft.net"
         },
         {
           "id": "anytxt",
           "name": "Anytxt",
           "url": "https://www.anytxt.net",
           "description": "本地全文搜索引擎",
-          "icon": "/sitelogo/www.anytxt.net.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.anytxt.net"
         },
         {
           "id": "mdn",
           "name": "MDN Web Docs",
           "url": "https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript",
           "description": "JavaScript基础教程",
-          "icon": "/sitelogo/developer.mozilla.org.ico"
+          "icon": "https://www.faviconextractor.com/favicon/developer.mozilla.org"
         },
         {
           "id": "coderutil",
           "name": "程序员盒子",
           "url": "https://coderutil.com",
           "description": "编程学习导航站",
-          "icon": "/sitelogo/coderutil.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/coderutil.com"
         },
         {
           "id": "1024tools",
           "name": "1024Tools",
           "url": "https://www.1024tools.com",
           "description": "程序员开发工具箱",
-          "icon": "/sitelogo/www.1024tools.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.1024tools.com"
         },
         {
           "id": "tinywow",
           "name": "TinyWow",
           "url": "https://tinywow.com",
           "description": "免费PDF/图片/AI在线工具",
-          "icon": "/sitelogo/tinywow.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/tinywow.com"
         },
         {
           "id": "one-toolbox",
           "name": "一个工具箱",
           "url": "https://onetoolbox.com",
           "description": "好用的在线工具集合",
-          "icon": "/sitelogo/onetoolbox.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/onetoolbox.com"
         }
       ]
     },
