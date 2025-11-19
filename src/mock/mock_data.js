@@ -103,63 +103,63 @@ export const mockData = {
           "name": "百度AI搜索",
           "url": "https://search.baidu.com/ai",
           "description": "百度AI办公学习搜索",
-          "icon": "/sitelogo/search.baidu.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/search.baidu.com"
         },
         {
           "id": "metaso",
           "name": "秘塔AI搜索",
           "url": "https://metaso.cn",
           "description": "AI驱动的搜索工具",
-          "icon": "/sitelogo/metaso.cn.ico"
+          "icon": "https://www.faviconextractor.com/favicon/metaso.cn"
         },
         {
           "id": "flowith",
           "name": "Flowith",
           "url": "https://flowith.net",
           "description": "节点交互式AI搜索对话",
-          "icon": "/sitelogo/flowith.net.ico"
+          "icon": "https://www.faviconextractor.com/favicon/flowith.net"
         },
         {
           "id": "manus",
           "name": "OpenManus",
           "url": "https://github.com/IvanHanloth/OpenManus",
           "description": "开源AI智能体框架",
-          "icon": "/sitelogo/github.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/manus.com"
         },
         {
           "id": "aigc-nav",
           "name": "AIGC工具导航",
           "url": "https://www.aigc.cn",
           "description": "AI工具集合导航站",
-          "icon": "/sitelogo/www.aigc.cn.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.aigc.cn"
         },
         {
           "id": "ai-url-nav",
           "name": "AI网址导航",
           "url": "https://www.aisite.fun",
           "description": "AI产品推荐导航",
-          "icon": "/sitelogo/www.aisite.fun.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.aisite.fun"
         },
         {
           "id": "leonardo",
           "name": "Leonardo.AI",
           "url": "https://leonardo.ai",
           "description": "AI图像与视频生成",
-          "icon": "/sitelogo/leonardo.ai.ico"
+          "icon": "https://www.faviconextractor.com/favicon/leonardo.ai"
         },
         {
           "id": "image-fx",
           "name": "ImageFX",
           "url": "https://imagefx.google.com",
           "description": "Google免费AI图像生成器",
-          "icon": "/sitelogo/imagefx.google.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/imagefx.google.com"
         },
         {
           "id": "magic-eraser",
           "name": "Magic Eraser",
           "url": "https://magicstudio.com/magiceraser",
           "description": "AI一键去除照片物体",
-          "icon": "/sitelogo/magicstudio.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/magicstudio.com"
         }
       ]
     },
@@ -593,7 +593,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "龙的导航🐱",
-  "_fileSha": "aac4d0fac4135216c9049cf94d9ca861a967888a",
-  "search": "baidu"
+  "title": "龙的导航🐱"
 }
