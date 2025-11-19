@@ -5,7 +5,15 @@ export const mockData = {
       "name": "我的常用",
       "icon": "💥",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1763536053445",
+          "name": "股票在线操作",
+          "url": "https://flveboy.github.io/stock/newIndex.html",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/flveboy.github.io"
+        }
+      ]
     },
     {
       "id": "ai-tools",
