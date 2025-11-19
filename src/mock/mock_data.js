@@ -409,21 +409,21 @@ export const mockData = {
           "name": "远景论坛",
           "url": "https://bbs.pcbeta.com",
           "description": "微软极客社区",
-          "icon": "/sitelogo/bbs.pcbeta.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/bbs.pcbeta.com"
         },
         {
           "id": "aidpan",
           "name": "爱盘",
           "url": "https://www.aidpan.com",
           "description": "在线破解工具包",
-          "icon": "/sitelogo/www.aidpan.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.aidpan.com"
         },
         {
           "id": "macqj",
           "name": "Mac青桔网",
           "url": "https://www.macqj.com",
           "description": "Mac软件下载站",
-          "icon": "/sitelogo/www.macqj.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.macqj.com"
         },
         {
           "id": "boss-key",
