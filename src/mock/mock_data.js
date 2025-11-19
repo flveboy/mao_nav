@@ -352,35 +352,35 @@ export const mockData = {
           "name": "东方财富股吧",
           "url": "https://guba.eastmoney.com",
           "description": "股票社区讨论",
-          "icon": "/sitelogo/guba.eastmoney.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/guba.eastmoney.com"
         },
         {
           "id": "sichuan-changhong",
           "name": "四川长虹股吧",
           "url": "https://guba.eastmoney.com/list,600839.html",
           "description": "600839股票讨论区",
-          "icon": "/sitelogo/guba.eastmoney.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/guba.eastmoney.com"
         },
         {
           "id": "san-hua",
           "name": "三花智控股吧",
           "url": "https://guba.eastmoney.com/list,002050.html",
           "description": "002050技术分析社区",
-          "icon": "/sitelogo/guba.eastmoney.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/guba.eastmoney.com"
         },
         {
           "id": "debang-fund",
           "name": "德邦半导体基金",
           "url": "https://fundf10.eastmoney.com/jjjz_014320.html",
           "description": "014320基金估值查询",
-          "icon": "/sitelogo/fundf10.eastmoney.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/fundf10.eastmoney.com"
         },
         {
           "id": "cost-calculator",
           "name": "股票成本计算器",
           "url": "https://www.52pojie.cn/thread-cost-calculator",
           "description": "补仓减仓成本计算工具",
-          "icon": "/sitelogo/www.52pojie.cn.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.52pojie.cn"
         },
         {
           "id": "tongdaxin",
