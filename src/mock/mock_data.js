@@ -166,7 +166,7 @@ export const mockData = {
           "name": "Flexus云服务",
           "url": "https://console.flexus.huaweicloud.com",
           "description": "华为云弹性服务控制台",
-          "icon": "/sitelogo/console.flexus.huaweicloud.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/console.flexus.huaweicloud.com"
         },
         {
           "id": "vercel",
@@ -180,21 +180,21 @@ export const mockData = {
           "name": "Netlify",
           "url": "https://app.netlify.com",
           "description": "静态网站托管平台",
-          "icon": "/sitelogo/app.netlify.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/app.netlify.com"
         },
         {
           "id": "cloudflare",
           "name": "Cloudflare",
           "url": "https://dash.cloudflare.com",
           "description": "CDN与边缘计算平台",
-          "icon": "/sitelogo/dash.cloudflare.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/dash.cloudflare.com"
         },
         {
           "id": "tidb-cloud",
           "name": "TiDB Cloud",
           "url": "https://tidbcloud.com",
           "description": "分布式数据库云服务",
-          "icon": "/sitelogo/tidbcloud.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/tidbcloud.com"
         }
       ]
     },
