@@ -445,14 +445,14 @@ export const mockData = {
           "name": "免费短剧网",
           "url": "https://www.free-short-drama.com",
           "description": "全网短剧免费分享",
-          "icon": "/sitelogo/www.free-short-drama.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.free-short-drama.com"
         },
         {
           "id": "libretv",
           "name": "LibreTV",
           "url": "https://libretv.com",
           "description": "免费在线视频搜索",
-          "icon": "/sitelogo/libretv.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/libretv.com"
         },
         {
           "id": "pilipala",
