@@ -560,35 +560,35 @@ export const mockData = {
           "name": "Office Tool Plus",
           "url": "https://yerong.blog/otp-guide",
           "description": "Office部署与管理工具",
-          "icon": "/sitelogo/yerong.blog.ico"
+          "icon": "https://www.faviconextractor.com/favicon/yerong.blog"
         },
         {
           "id": "ttsmaker",
           "name": "TTSMaker",
           "url": "https://ttsmaker.com",
           "description": "免费文字转语音",
-          "icon": "/sitelogo/ttsmaker.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/ttsmaker.com"
         },
         {
           "id": "yoo-resume",
           "name": "YOO简历",
           "url": "https://www.yooresume.com",
           "description": "AI在线简历制作",
-          "icon": "/sitelogo/www.yooresume.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.yooresume.com"
         },
         {
           "id": "pdf24",
           "name": "PDF24 Tools",
           "url": "https://tools.pdf24.org/zh",
           "description": "免费PDF处理工具",
-          "icon": "/sitelogo/tools.pdf24.org.ico"
+          "icon": "https://www.faviconextractor.com/favicon/tools.pdf24.org"
         },
         {
           "id": "wechat-md",
           "name": "微信Markdown编辑器",
           "url": "https://doocs.github.io/md",
           "description": "公众号排版工具",
-          "icon": "/sitelogo/doocs.github.io.ico"
+          "icon": "https://www.faviconextractor.com/favicon/doocs.github.io"
         }
       ]
     }
