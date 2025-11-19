@@ -295,42 +295,42 @@ export const mockData = {
           "name": "LookAE.com",
           "url": "https://www.lookae.com",
           "description": "影视后期特效素材站",
-          "icon": "/sitelogo/www.lookae.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.lookae.com"
         },
         {
           "id": "vjshi",
           "name": "VJ师网",
           "url": "https://www.vjshi.com",
           "description": "正版视频素材下载",
-          "icon": "/sitelogo/www.vjshi.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.vjshi.com"
         },
         {
           "id": "aigei",
           "name": "爱给网",
           "url": "https://www.aigei.com",
           "description": "免费视频/音效/图标素材",
-          "icon": "/sitelogo/www.aigei.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.aigei.com"
         },
         {
           "id": "pixabay-cars",
           "name": "Pixabay汽车视频",
           "url": "https://pixabay.com/videos/search/car/",
           "description": "免费高清汽车视频片段",
-          "icon": "/sitelogo/pixabay.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/pixabay.com"
         },
         {
           "id": "iconfont",
           "name": "Iconfont",
           "url": "https://www.iconfont.cn",
           "description": "阿里巴巴矢量图标库",
-          "icon": "/sitelogo/www.iconfont.cn.ico"
+          "icon": "https://www.faviconextractor.com/favicon/iconfont.cn.ico"
         },
         {
           "id": "blog-icons",
           "name": "博客图标",
           "url": "https://www.aigei.com/icon",
           "description": "免费博客图标下载",
-          "icon": "/sitelogo/www.aigei.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.aigei.com"
         }
       ]
     },
