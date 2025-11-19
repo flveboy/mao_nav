@@ -517,35 +517,35 @@ export const mockData = {
           "name": "收库123",
           "url": "https://www.shouku123.com",
           "description": "个性化可定制网址导航",
-          "icon": "/sitelogo/www.shouku123.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.shouku123.com"
         },
         {
           "id": "tdbox",
           "name": "TDbox导航网",
           "url": "https://www.tdbox.cn",
           "description": "实用导航网站大全",
-          "icon": "/sitelogo/www.tdbox.cn.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.tdbox.cn"
         },
         {
           "id": "xiaohu-nav",
           "name": "小虎导航",
           "url": "https://nav.xiaohu.cc",
           "description": "纯净无广告网址导航",
-          "icon": "/sitelogo/nav.xiaohu.cc.ico"
+          "icon": "https://www.faviconextractor.com/favicon/nav.xiaohu.cc"
         },
         {
           "id": "it-lullaby",
           "name": "IT摇篮曲导航",
           "url": "https://www.itlullaby.com",
           "description": "IT人专属导航",
-          "icon": "/sitelogo/www.itlullaby.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.itlullaby.com"
         },
         {
           "id": "aidesk",
           "name": "AingDeskNav",
           "url": "https://nav.aidesk.top",
           "description": "Hugo主题导航页",
-          "icon": "/sitelogo/nav.aidesk.top.ico"
+          "icon": "https://www.faviconextractor.com/favicon/nav.aidesk.top"
         }
       ]
     },
