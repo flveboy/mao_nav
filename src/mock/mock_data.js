@@ -474,14 +474,14 @@ export const mockData = {
           "name": "书栈网",
           "url": "https://www.bookstack.cn",
           "description": "IT开源书籍免费阅读",
-          "icon": "/sitelogo/www.bookstack.cn.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.bookstack.cn"
         },
         {
           "id": "csdn",
           "name": "CSDN",
           "url": "https://www.csdn.net",
           "description": "开发者技术社区",
-          "icon": "/sitelogo/www.csdn.net.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.csdn.net"
         },
         {
           "id": "zhihu",
@@ -495,14 +495,14 @@ export const mockData = {
           "name": "我要自学网",
           "url": "https://www.51zxw.net",
           "description": "视频教程学习站",
-          "icon": "/sitelogo/www.51zxw.net.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.51zxw.net"
         },
         {
           "id": "chodocs",
           "name": "ChoDocs",
           "url": "https://chodocs.cn",
           "description": "一站式前端学习网站",
-          "icon": "/sitelogo/chodocs.cn.ico"
+          "icon": "https://www.faviconextractor.com/favicon/chodocs.cn"
         }
       ]
     },
