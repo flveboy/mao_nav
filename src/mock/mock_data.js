@@ -400,7 +400,7 @@ export const mockData = {
       ]
     },
     {
-      "id": "uncategorized",
+      "id": "other",
       "name": "其他",
       "icon": "📁",
       "order": 7,
