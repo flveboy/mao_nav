@@ -1,0 +1,25 @@
+<!doctype html><html lang="zh-CN" class="notranslate" translate="no"><head><meta name="baidu-site-verification" content="codeva-Z8TV6pUDSy"/><meta name="google" content="notranslate"/><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0,viewport-fit=cover"><title>腾讯元器</title><meta name="Keywords" content="腾讯元器,元器,腾讯混元开发平台,腾讯智能体开放平台,智能体开放平台,腾讯AI开放平台,腾讯开放平台,腾讯混元,腾讯混元大模型,腾讯大模型,腾讯混元助手,LLM大语言模型,AI大模型,认知智能大模型,AI聊天机器人,多模态,AIGC智能创作,知识增强大模型,AIGC,智能客服,腾讯AIGC"><meta name="description" content="腾讯元器是腾讯混元大模型团队推出的智能体开放平台，开发者可以通过插件、知识库、工作流等方式快速、低门槛打造高质量的智能体，支持发布到QQ、微信等平台，同时也支持API调用。"/><link rel="icon" type="image/png" href="/favicon.png"><link rel="preload" href="https://hunyuan.tencent.com/" as="document"><link rel="dns-prefetch" href="//hunyuan.tencent.com"><link rel="preconnect" href="https://hunyuan.tencent.com"><meta property="og:image" content="https://open-agents-web-cdn-prd.hunyuan.tencent.com/public/5e1884105ed399b9b0db.png"><meta property="og:description" content="腾讯元器"><meta name="robots" content="nofollow"><script src="https://cdn-hybrid-prod.hunyuan.tencent.com/sdk/v1.js"></script><script src="https://unpkg.com/vconsole@latest/dist/vconsole.min.js"></script><script defer="defer" src="https://open-agents-web-cdn-prd.hunyuan.tencent.com/public/runtime__e69c3f32564537b927f4.js"></script><script defer="defer" src="https://open-agents-web-cdn-prd.hunyuan.tencent.com/public/204__4e08d42f4ec7b2cf81e0.js"></script><script defer="defer" src="https://open-agents-web-cdn-prd.hunyuan.tencent.com/public/index__262f81374da86d5318e7.js"></script><link href="https://open-agents-web-cdn-prd.hunyuan.tencent.com/public/204__4e08d42f4ec7b2cf81e0.css" rel="stylesheet"><link href="https://open-agents-web-cdn-prd.hunyuan.tencent.com/public/index__262f81374da86d5318e7.css" rel="stylesheet"><style>#app:empty {
+        border-radius: 0px 0px 0px 0px;
+      }
+
+      @keyframes shineForSkeleton {
+        0% {
+          transform: rotate(0);
+        }
+
+        100% {
+          transform: rotate(360deg);
+        }
+      }</style><script>if (!Object.hasOwn) {
+        Object.defineProperty(Object, 'hasOwn', {
+          value: function (object, property) {
+            if (object == null) {
+              throw new TypeError('Cannot convert undefined or null to object');
+            }
+            return Object.prototype.hasOwnProperty.call(Object(object), property);
+          },
+          configurable: true,
+          enumerable: false,
+          writable: true
+        });
+      }</script></head><body><div id="app"></div></body></html>
