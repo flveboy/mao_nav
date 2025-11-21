@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="keywords" content="收库,收库123,云收藏,个性网址导航,自定义网址导航,网址收藏,全能搜索">
+    <meta name="description" content="《收库123 · shouku123.com》在这里可以定制，专属于您个人的网址导航主页。「全能搜索」：集成网上各类搜索于一个搜索框；「网址云收藏」：将网址收藏在云端，实现跨浏览器，跨终端，通过“收藏口令”实现免登录收藏网址。">
+    <meta name="baidu-site-verification" content="fJlGQD0Wk7" />
+    <meta name="baidu_union_verify" content="c38252e1d25e7d85e894abfe41728ea1">
+    <meta name="msvalidate.01" content="C449C89B946BACCAD4C1ECE08949EFF2" />
+    <meta name="360-site-verification" content="5f3f3159cd9c838fd5b2b9cab4ea01a6" />
+    <meta name="google-site-verification" content="fM_qJ0CDoCa-i5bsBkIEKkfx2I6jb27ESNQ4xHsScG4" />
+
+  <!-- 宽度等于设备宽度，缩放比例为1比1 -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <title>消息 · shouku123.com</title>
+  <link href="/res/img/logo64.png" rel="shortcut icon">
+  <link href="/res/css/bootstrap.min.css" rel="stylesheet">
+  <style type="text/css">
+    BODY {
+        background-image: URL('/res/img/1.jpg');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        font-family: 'Arial', 'Microsoft YaHei';
+        color: #666666;
+    }
+  </style>
+</head>
+
+<body>
+
+<!-- 注册模态框（Modal） -->
+<div id="msgModal"
+     class="modal fade"
+     role="dialog"
+     data-backdrop="static"
+     data-show="true"
+     data-keyboard="false"
+     style="padding-top: 50px;">
+  <div class="modal-dialog">
+    <div class="modal-content myfont">
+      <div class="modal-header">
+        <button type="button" class="close" aria-label="Close" onclick="history.go(-1)"><span aria-hidden="true">&times;</span></button>
+        <a href="https://shouku123.com/"><img src="/res/img/shouku123_logo.png"></a>
+      </div>
+      <div class="modal-body">
+        <div class="alert alert-warning" role="alert" id="msgModal_alert" style=" margin : 10px 10px; font-size: 16px; min-height: 80px;">
+          不存在favicon.ico页面!
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button  type="button"  class="btn btn-success"
+                 onclick="javascript:msgModalSub();">确定</button>
+      </div>
+    </div>
+  </div>
+  <!-- /.modal -->
+
+  <!-- 网页尾部 -->
+  <footer  class="container">
+    <div class="text-center" style="height:50px;color: #9C9C9C;">
+    <dl>
+        <dd>Copyright © 2025 All Rights Reserved</dd>
+        <dd>WWW.SHOUKU123.COM</dd>
+    </dl>
+</div>
+  </footer>
+
+</div>
+
+<!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+<script src="/res/js/jquery.min.js"></script>
+<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+<script src="/res/js/bootstrap.min.js"></script>
+
+<script type="text/javascript">
+	/*提交添加分组事件*/
+	function msgModalSub() {
+		location = '/';
+		return false;
+	}
+
+	$(function(){
+		$('#msgModal').modal('show');
+	});
+	</script>
+</body>
+</html>
