@@ -2171,7 +2171,7 @@ export const mockData = {
         {
           "id": "site-9d07wu89-1763692440763",
           "name": "股票成本计算",
-          "url": "file:///Users/xuyulong/Desktop/datas/stock.html",
+          "url": "https://flveboy.github.io/stock/newIndex.html",
           "description": "股票成本计算",
           "icon": "/sitelogo/.ico"
         },
@@ -2455,6 +2455,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "龙的导航🐱",
-  "_fileSha": "b03d0407ec06ac7f254abf6645ac0425a8e74a92"
-};
+  "title": "龙的导航🐱"
+}
