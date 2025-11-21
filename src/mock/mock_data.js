@@ -2195,6 +2195,13 @@ export const mockData = {
           "url": "https://www.right.com.cn/forum/thread-4146855-1-1.html",
           "description": "电信ZNHG600超级用户登陆密码加密登陆-光猫/adsl/cable无线一体机-恩山无线论坛",
           "icon": "/sitelogo/right.com.cn.ico"
+        },
+        {
+          "id": "site-zit1xgh9-1763696755284",
+          "name": "股票成本计算",
+          "url": "file:///Users/xuyulong/Desktop/datas/stock.html",
+          "description": "股票成本计算",
+          "icon": "/sitelogo/.ico"
         }
       ]
     },
@@ -2456,4 +2463,4 @@ export const mockData = {
     }
   ],
   "title": "龙的导航🐱"
-}
+};
