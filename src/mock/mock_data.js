@@ -2391,14 +2391,6 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-0vysdoou-1763704518496",
-          "name": "Maple Blog | 一个简单的Liquid Glass风格的静态网站系统",
-          "url": "https://blog.loong.us.ci/",
-          "description": "Maple Blog | 一个简单的Liquid Glass风格的静态网站系统",
-          "icon": "/sitelogo/blog.loong.us.ci.ico",
-          "_source": "gitee_bookmark"
-        },
-        {
           "id": "site-vywdixdl-1763704246277",
           "name": "币安——比特币、以太币以及竞争币等加密货币的交易平台",
           "url": "https://www.suitechsui.cc/zh-CN/",
