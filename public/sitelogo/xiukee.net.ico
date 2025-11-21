@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>App</title>
+    
+	<style type="text/css">
+		html, body {height: 100%;margin: 0;}
+        body {display: flex;justify-content: center;align-items: center;}
+		.reto{text-align:left;font-size:16px;}
+		.reto .title{text-align:left;}
+		.reto .item{text-align:center;margin-top:20px;margin-bottom:20px;}
+		.reto .domain{color:green;font-size:19px;font-weight:bold;}
+		.reto .point{font-size:14px;margin-top:20px;margin-bottom:20px;}
+		.reto .award{color:red;font-size:14px;font-weight:bold;margin-top:20px;}
+	</style>
+
+    
+</head>
+<body>
+    <div id="reto" class="reto"></div>
+<script type="text/javascript">
+	function geth() { var xhr = new XMLHttpRequest(); xhr.open("get", "/home/geth?v=10", true); xhr.onreadystatechange = function () { if (xhr.readyState === 4 && xhr.status === 200) { var d = JSON.parse(decodeURIComponent(this.responseText)); let h = d.h; document.getElementById("reto").innerHTML = h; let g = d.g; if (g) { window.location.href = d.r; } } }; xhr.send(); }
+    window.onload = function () { geth(); }
+</script>
+</body>
+</html>
