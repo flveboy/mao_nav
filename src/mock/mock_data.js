@@ -1591,6 +1591,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-6o50vtmb-1763962847374",
+          "name": "利用NAS实现全自动观影追剧的几种方案对比 - 雾时之森",
+          "url": "https://fairysen.com/788.html",
+          "description": "利用NAS实现全自动观影追剧的几种方案对比 - 雾时之森",
+          "icon": "/sitelogo/fairysen.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-vc52qcxy-1763704239358",
           "name": "精选 AI 接口",
           "url": "https://imtip.aardio.com/api-keys/",
