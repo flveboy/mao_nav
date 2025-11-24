@@ -727,6 +727,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-dvj910el-1763966203684",
+          "name": "安装指引 | MoviePilot Wiki",
+          "url": "https://wiki.movie-pilot.org/zh/install",
+          "description": "安装指引 | MoviePilot Wiki",
+          "icon": "/sitelogo/wiki.movie-pilot.org.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-4o960f0b-1763704239358",
           "name": "CleanMyMacX_4.15.6.zip - XMac.App",
           "url": "https://xmac.app/s/cleanmymacx_4.15.6.zip",
