@@ -711,6 +711,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-87duc4z0-1763954483349",
+          "name": "电影筛选 | 观影 GYING",
+          "url": "https://www.gyg.st/mv",
+          "description": "电影筛选 | 观影 GYING",
+          "icon": "/sitelogo/gyg.st.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-4o960f0b-1763704239358",
           "name": "CleanMyMacX_4.15.6.zip - XMac.App",
           "url": "https://xmac.app/s/cleanmymacx_4.15.6.zip",
