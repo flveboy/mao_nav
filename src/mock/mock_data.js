@@ -767,6 +767,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-3zwpklt5-1764147854845",
+          "name": "管理控制台 - DNSPod",
+          "url": "https://console.dnspod.cn/dns/list",
+          "description": "管理控制台 - DNSPod",
+          "icon": "/sitelogo/console.dnspod.cn.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-4o960f0b-1763704239358",
           "name": "CleanMyMacX_4.15.6.zip - XMac.App",
           "url": "https://xmac.app/s/cleanmymacx_4.15.6.zip",
