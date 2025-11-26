@@ -1663,6 +1663,22 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-984wluma-1764151073733",
+          "name": "管理控制台 - DNSPod",
+          "url": "https://console.dnspod.cn/dns/list/detail/nas.loong.abrdns.com/records",
+          "description": "管理控制台 - DNSPod",
+          "icon": "/sitelogo/console.dnspod.cn.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-sikp9d36-1764151073733",
+          "name": "Editing loonglab.mooo.com",
+          "url": "https://freedns.afraid.org/subdomain/edit.php?data_id=24849747",
+          "description": "Editing loonglab.mooo.com",
+          "icon": "/sitelogo/freedns.afraid.org.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-vc52qcxy-1763704239358",
           "name": "精选 AI 接口",
           "url": "https://imtip.aardio.com/api-keys/",
