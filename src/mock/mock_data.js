@@ -2237,6 +2237,14 @@ export const mockData = {
           "description": "bookMarkSync: 同步浏览器数据 - Gitee.com",
           "icon": "/sitelogo/gitee.com.ico",
           "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-3vywpykc-1764510545055",
+          "name": "Are-u-ok/x86 at main · AUK9527/Are-u-ok",
+          "url": "https://github.com/AUK9527/Are-u-ok/tree/main/x86",
+          "description": "Are-u-ok/x86 at main · AUK9527/Are-u-ok",
+          "icon": "/sitelogo/github.com.ico",
+          "_source": "gitee_bookmark"
         }
       ]
     },
