@@ -1957,6 +1957,14 @@ export const mockData = {
           "description": "frii.site",
           "icon": "/sitelogo/frii.site.ico",
           "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-fq5yugz4-1764669269540",
+          "name": "Cloudflare IP 优选",
+          "url": "https://cf-ip.cdtools.click/chengdu",
+          "description": "Cloudflare IP 优选",
+          "icon": "/sitelogo/cf-ip.cdtools.click.ico",
+          "_source": "gitee_bookmark"
         }
       ]
     },
