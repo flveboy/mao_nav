@@ -871,6 +871,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-e5q8tuu7-1764661456187",
+          "name": "爱语飞飞",
+          "url": "https://iyuu.cn/",
+          "description": "爱语飞飞",
+          "icon": "/sitelogo/iyuu.cn.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-mitp4q7w-1763704246292",
           "name": "免费短剧网 - 全网短剧免费分享平台",
           "url": "https://a80.35240.com/",
