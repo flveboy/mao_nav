@@ -887,6 +887,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-zrft5pe7-1764825230506",
+          "name": "铂金短剧 :: 首页 - Powered by NexusPHP",
+          "url": "https://www.ptskit.org/index.php",
+          "description": "铂金短剧 :: 首页 - Powered by NexusPHP",
+          "icon": "/sitelogo/ptskit.org.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-mitp4q7w-1763704246292",
           "name": "免费短剧网 - 全网短剧免费分享平台",
           "url": "https://a80.35240.com/",
