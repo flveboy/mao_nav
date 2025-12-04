@@ -2071,6 +2071,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-wtz04mbp-1764824355015",
+          "name": "GitHub 文件加速代理 - 快速访问 GitHub 文件",
+          "url": "https://gh-proxy.com/",
+          "description": "GitHub 文件加速代理 - 快速访问 GitHub 文件",
+          "icon": "/sitelogo/gh-proxy.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-e6zrvo93-1763704200921",
           "name": "GitHub Proxy 最新地址发布",
           "url": "https://ghproxy.link/",
@@ -2260,14 +2268,6 @@ export const mockData = {
           "url": "https://gitee.com/no225/book-mark-sync/tree/master",
           "description": "bookMarkSync: 同步浏览器数据 - Gitee.com",
           "icon": "/sitelogo/gitee.com.ico",
-          "_source": "gitee_bookmark"
-        },
-        {
-          "id": "site-wtz04mbp-1764824355015",
-          "name": "GitHub 文件加速代理 - 快速访问 GitHub 文件",
-          "url": "https://gh-proxy.com/",
-          "description": "GitHub 文件加速代理 - 快速访问 GitHub 文件",
-          "icon": "/sitelogo/gh-proxy.com.ico",
           "_source": "gitee_bookmark"
         },
         {
