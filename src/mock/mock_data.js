@@ -1231,6 +1231,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-cj16zhv0-1764827570304",
+          "name": "Vector Magic：将 JPG、PNG 图像转换成 SVG、EPS、AI 矢量图像",
+          "url": "https://zh.vectormagic.com/",
+          "description": "Vector Magic：将 JPG、PNG 图像转换成 SVG、EPS、AI 矢量图像",
+          "icon": "/sitelogo/zh.vectormagic.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-tzo8bmva-1763704201021",
           "name": "当贝AI官网_DeepSeek满血版_全网优质AI大模型",
           "url": "https://ai.dangbei.com/chat/7473420468922564662",
