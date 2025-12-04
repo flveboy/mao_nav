@@ -2263,6 +2263,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-wtz04mbp-1764824355015",
+          "name": "GitHub 文件加速代理 - 快速访问 GitHub 文件",
+          "url": "https://gh-proxy.com/",
+          "description": "GitHub 文件加速代理 - 快速访问 GitHub 文件",
+          "icon": "/sitelogo/gh-proxy.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-3vywpykc-1764510545055",
           "name": "Are-u-ok/x86 at main · AUK9527/Are-u-ok",
           "url": "https://github.com/AUK9527/Are-u-ok/tree/main/x86",
