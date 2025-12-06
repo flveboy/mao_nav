@@ -783,6 +783,22 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-ra1hah8x-1765031616066",
+          "name": "星火网文助手",
+          "url": "https://writersdesk.net/?from=iflydocs#/homepage",
+          "description": "星火网文助手",
+          "icon": "/sitelogo/writersdesk.net.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-7eb8adv1-1765031626465",
+          "name": "软件插件 - 小小资源铺",
+          "url": "https://www.xxziyuan.top/software-plugins/plugins",
+          "description": "软件插件 - 小小资源铺",
+          "icon": "/sitelogo/xxziyuan.top.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-4o960f0b-1763704239358",
           "name": "CleanMyMacX_4.15.6.zip - XMac.App",
           "url": "https://xmac.app/s/cleanmymacx_4.15.6.zip",
@@ -1727,6 +1743,54 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-0dnptznm-1765031616066",
+          "name": "商汤商量语言大模型",
+          "url": "https://chat.sensetime.com/wb/chat?channel=chat&#38;chatModel=moe&#38;sessionId=e0c50024-d8fe-407c-a5b6-380f42060613",
+          "description": "商汤商量语言大模型",
+          "icon": "/sitelogo/chat.sensetime.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-8jhx1jgu-1765031616066",
+          "name": "讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞",
+          "url": "https://xinghuo.xfyun.cn/desk",
+          "description": "讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞",
+          "icon": "/sitelogo/xinghuo.xfyun.cn.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-7hej5gga-1765031617288",
+          "name": "讯飞公文写作-科大讯飞AI公文写作",
+          "url": "https://gw.iflydocs.com/?from=iflydocs#/",
+          "description": "讯飞公文写作-科大讯飞AI公文写作",
+          "icon": "/sitelogo/gw.iflydocs.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-coa6p54n-1765031618821",
+          "name": "讯飞智文 - AI在线生成PPT、Word",
+          "url": "https://zhiwen.xfyun.cn/home",
+          "description": "讯飞智文 - AI在线生成PPT、Word",
+          "icon": "/sitelogo/zhiwen.xfyun.cn.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-i6qoftxv-1765031619884",
+          "name": "百度一下，你就知道",
+          "url": "https://www.baidu.com/?from=2001a",
+          "description": "百度一下，你就知道",
+          "icon": "/sitelogo/baidu.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-gy4bvwmz-1765031626465",
+          "name": "会话",
+          "url": "https://cp.baidu.com/chat?chatId=993bc1e810661ed9ad51f3f1&#38;type=simple",
+          "description": "会话",
+          "icon": "/sitelogo/cp.baidu.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-vc52qcxy-1763704239358",
           "name": "精选 AI 接口",
           "url": "https://imtip.aardio.com/api-keys/",
@@ -1980,6 +2044,22 @@ export const mockData = {
           "url": "https://www.frii.site/account/verify/vercel",
           "description": "frii.site",
           "icon": "/sitelogo/frii.site.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-xatt6oq3-1765031616066",
+          "name": "通义",
+          "url": "https://tongyi.aliyun.com/qianwen/?sessionId=2509c78e87114ca29740c5164f21895e",
+          "description": "通义",
+          "icon": "/sitelogo/tongyi.aliyun.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-72cmrvcr-1765031621899",
+          "name": "腾讯日历--日程管理",
+          "url": "https://rili.tencent.com/",
+          "description": "腾讯日历--日程管理",
+          "icon": "/sitelogo/rili.tencent.com.ico",
           "_source": "gitee_bookmark"
         },
         {
@@ -2287,19 +2367,19 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-w1l8ltnj-1763704246277",
-          "name": "bookMarkSync: 同步浏览器数据 - Gitee.com",
-          "url": "https://gitee.com/no225/book-mark-sync/tree/master",
-          "description": "bookMarkSync: 同步浏览器数据 - Gitee.com",
-          "icon": "/sitelogo/gitee.com.ico",
-          "_source": "gitee_bookmark"
-        },
-        {
           "id": "site-3vywpykc-1764510545055",
           "name": "Are-u-ok/x86 at main · AUK9527/Are-u-ok",
           "url": "https://github.com/AUK9527/Are-u-ok/tree/main/x86",
           "description": "Are-u-ok/x86 at main · AUK9527/Are-u-ok",
           "icon": "/sitelogo/github.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-w1l8ltnj-1763704246277",
+          "name": "bookMarkSync: 同步浏览器数据 - Gitee.com",
+          "url": "https://gitee.com/no225/book-mark-sync/tree/master",
+          "description": "bookMarkSync: 同步浏览器数据 - Gitee.com",
+          "icon": "/sitelogo/gitee.com.ico",
           "_source": "gitee_bookmark"
         }
       ]
@@ -2679,19 +2759,19 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-m4uti71m-1763704201021",
-          "name": "股吧_东方财富网旗下股票社区_东方财富网股吧",
-          "url": "http://guba.eastmoney.com/?jumph5=1",
-          "description": "股吧_东方财富网旗下股票社区_东方财富网股吧",
-          "icon": "/sitelogo/guba.eastmoney.com.ico",
-          "_source": "gitee_bookmark"
-        },
-        {
           "id": "site-w0558ior-1763704212997",
           "name": "股票成本计算器 - 在线股票补仓减仓成本计算工具",
           "url": "http://time.syiban.com/gupiao/",
           "description": "股票成本计算器 - 在线股票补仓减仓成本计算工具",
           "icon": "/sitelogo/time.syiban.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-m4uti71m-1763704201021",
+          "name": "股吧_东方财富网旗下股票社区_东方财富网股吧",
+          "url": "http://guba.eastmoney.com/?jumph5=1",
+          "description": "股吧_东方财富网旗下股票社区_东方财富网股吧",
+          "icon": "/sitelogo/guba.eastmoney.com.ico",
           "_source": "gitee_bookmark"
         },
         {
@@ -2836,6 +2916,14 @@ export const mockData = {
           "url": "https://post.smzdm.com/p/a8pkk9wl/",
           "description": "【长文，建议收藏慢看】快过年了，我来盘一盘这50个一直留在NAS上的好工具_NAS存储_什么值得买",
           "icon": "/sitelogo/post.smzdm.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-bdwmy72i-1765031624159",
+          "name": "PanTools-多网盘管理工具 v1.0.27 - 小小资源铺",
+          "url": "https://www.xxziyuan.top/6121.html",
+          "description": "PanTools-多网盘管理工具 v1.0.27 - 小小资源铺",
+          "icon": "/sitelogo/xxziyuan.top.ico",
           "_source": "gitee_bookmark"
         }
       ]
