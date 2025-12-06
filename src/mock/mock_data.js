@@ -783,7 +783,7 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-6mqly0j7-1765031624350",
+          "id": "site-ra1hah8x-1765031616066",
           "name": "星火网文助手",
           "url": "https://writersdesk.net/?from=iflydocs#/homepage",
           "description": "星火网文助手",
@@ -791,7 +791,7 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-w1bqbcqs-1765031631789",
+          "id": "site-7eb8adv1-1765031626465",
           "name": "软件插件 - 小小资源铺",
           "url": "https://www.xxziyuan.top/software-plugins/plugins",
           "description": "软件插件 - 小小资源铺",
@@ -1743,7 +1743,7 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-8ymmo2ag-1765031624350",
+          "id": "site-0dnptznm-1765031616066",
           "name": "商汤商量语言大模型",
           "url": "https://chat.sensetime.com/wb/chat?channel=chat&#38;chatModel=moe&#38;sessionId=e0c50024-d8fe-407c-a5b6-380f42060613",
           "description": "商汤商量语言大模型",
@@ -1751,7 +1751,7 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-588038qi-1765031624350",
+          "id": "site-8jhx1jgu-1765031616066",
           "name": "讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞",
           "url": "https://xinghuo.xfyun.cn/desk",
           "description": "讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞",
@@ -1759,7 +1759,7 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-1oppy6ol-1765031625249",
+          "id": "site-7hej5gga-1765031617288",
           "name": "讯飞公文写作-科大讯飞AI公文写作",
           "url": "https://gw.iflydocs.com/?from=iflydocs#/",
           "description": "讯飞公文写作-科大讯飞AI公文写作",
@@ -1767,7 +1767,7 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-mwznwd07-1765031626545",
+          "id": "site-coa6p54n-1765031618821",
           "name": "讯飞智文 - AI在线生成PPT、Word",
           "url": "https://zhiwen.xfyun.cn/home",
           "description": "讯飞智文 - AI在线生成PPT、Word",
@@ -1775,7 +1775,7 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-0skur017-1765031627618",
+          "id": "site-i6qoftxv-1765031619884",
           "name": "百度一下，你就知道",
           "url": "https://www.baidu.com/?from=2001a",
           "description": "百度一下，你就知道",
@@ -1783,7 +1783,7 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-5mxqornh-1765031631789",
+          "id": "site-gy4bvwmz-1765031626465",
           "name": "会话",
           "url": "https://cp.baidu.com/chat?chatId=993bc1e810661ed9ad51f3f1&#38;type=simple",
           "description": "会话",
@@ -2047,7 +2047,7 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-ub236akg-1765031624350",
+          "id": "site-xatt6oq3-1765031616066",
           "name": "通义",
           "url": "https://tongyi.aliyun.com/qianwen/?sessionId=2509c78e87114ca29740c5164f21895e",
           "description": "通义",
@@ -2055,7 +2055,7 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-9bu4oizu-1765031628527",
+          "id": "site-72cmrvcr-1765031621899",
           "name": "腾讯日历--日程管理",
           "url": "https://rili.tencent.com/",
           "description": "腾讯日历--日程管理",
@@ -2919,7 +2919,7 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-yhly8hn0-1765031630314",
+          "id": "site-bdwmy72i-1765031624159",
           "name": "PanTools-多网盘管理工具 v1.0.27 - 小小资源铺",
           "url": "https://www.xxziyuan.top/6121.html",
           "description": "PanTools-多网盘管理工具 v1.0.27 - 小小资源铺",
