@@ -911,6 +911,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-25qrz32k-1765427945093",
+          "name": "📚 书签管理",
+          "url": "https://nav.msginfo.dpdns.org/",
+          "description": "📚 书签管理",
+          "icon": "/sitelogo/nav.msginfo.dpdns.org.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-mitp4q7w-1763704246292",
           "name": "免费短剧网 - 全网短剧免费分享平台",
           "url": "https://a80.35240.com/",
