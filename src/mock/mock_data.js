@@ -911,6 +911,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-shffzoz7-1765427883261",
+          "name": "管理后台 - 猫猫导航",
+          "url": "https://nav.loong.us.ci/admin",
+          "description": "管理后台 - 猫猫导航",
+          "icon": "/sitelogo/nav.loong.us.ci.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-mitp4q7w-1763704246292",
           "name": "免费短剧网 - 全网短剧免费分享平台",
           "url": "https://a80.35240.com/",
