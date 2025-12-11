@@ -927,6 +927,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-0uizglbk-1765434338150",
+          "name": "HDArea :: 登录 High Definition Area",
+          "url": "https://hdarea.club/login.php?returnto=forums.php%3Faction%3Dviewtopic%26amp%3Btopicid%3D6028",
+          "description": "HDArea :: 登录 High Definition Area",
+          "icon": "/sitelogo/hdarea.club.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-mitp4q7w-1763704246292",
           "name": "免费短剧网 - 全网短剧免费分享平台",
           "url": "https://a80.35240.com/",
