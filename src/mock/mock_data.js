@@ -935,6 +935,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-k7sh1q42-1765536138845",
+          "name": "咖啡 :: 种子 - Powered by NexusPHP",
+          "url": "https://ptcafe.club/torrents.php",
+          "description": "咖啡 :: 种子 - Powered by NexusPHP",
+          "icon": "/sitelogo/ptcafe.club.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-mitp4q7w-1763704246292",
           "name": "免费短剧网 - 全网短剧免费分享平台",
           "url": "https://a80.35240.com/",
