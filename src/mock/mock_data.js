@@ -1853,6 +1853,14 @@ export const mockData = {
           "description": "RailgunPT :: 首页 - Powered by NexusPHP",
           "icon": "/sitelogo/bilibili.download.ico",
           "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-361c2s6n-1765517027737",
+          "name": "辣可小药房",
+          "url": "https://docs.qq.com/sheet/DSk1VU1JZS0dWamNt?aidPos=detail&#38;no_promotion=1&#38;tab=BB08J2",
+          "description": "辣可小药房",
+          "icon": "/sitelogo/docs.qq.com.ico",
+          "_source": "gitee_bookmark"
         }
       ]
     },
