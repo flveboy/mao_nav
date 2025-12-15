@@ -951,6 +951,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-n1on4mub-1765788994491",
+          "name": "夸克网盘音乐资源_无损音乐/热门歌曲下载 | 华语/欧美/日韩专辑合集–夸克网盘社",
+          "url": "https://kuakes.com/music",
+          "description": "夸克网盘音乐资源_无损音乐/热门歌曲下载 | 华语/欧美/日韩专辑合集–夸克网盘社",
+          "icon": "/sitelogo/kuakes.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-mitp4q7w-1763704246292",
           "name": "免费短剧网 - 全网短剧免费分享平台",
           "url": "https://a80.35240.com/",
