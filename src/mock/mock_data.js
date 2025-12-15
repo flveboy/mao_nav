@@ -959,6 +959,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-46an1u0v-1765789372535",
+          "name": "[夸克网盘]音乐资源合集-音乐馆🎵 - 云盘社区 www.ypbbs.cn",
+          "url": "https://www.ypbbs.cn/d/195-kua-ke-wang-pan-yin-le-zi-yuan-he-ji-yin-le-guan",
+          "description": "[夸克网盘]音乐资源合集-音乐馆🎵 - 云盘社区 www.ypbbs.cn",
+          "icon": "/sitelogo/ypbbs.cn.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-mitp4q7w-1763704246292",
           "name": "免费短剧网 - 全网短剧免费分享平台",
           "url": "https://a80.35240.com/",
