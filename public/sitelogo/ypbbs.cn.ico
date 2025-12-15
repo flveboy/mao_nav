@@ -1,0 +1,162 @@
+<!doctype html>
+<html  dir="ltr"        lang="zh-Hans" >
+    <head>
+        <meta charset="utf-8">
+        <title>云盘社区 www.ypbbs.cn</title>
+
+        <link rel="preload" href="https://www.ypbbs.cn/assets/forum.js?v=adeabf80" as="script">
+<link rel="preload" href="https://www.ypbbs.cn/assets/forum-zh-Hans.js?v=bd1bbe7b" as="script">
+<link rel="preload" href="https://www.ypbbs.cn/assets/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="https://www.ypbbs.cn/assets/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin="">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, viewport-fit=cover">
+<meta name="description" content="云盘社区 www.ypbbs.cn，夸克资源,网盘资源论坛，云盘资源分享，网盘资源分享，阿里云盘，夸克网盘，迅雷网盘，百度网盘等各网盘资源分享">
+<meta name="theme-color" content="#4D698E">
+<meta name="color-scheme" content="light">
+<link rel="stylesheet" media="not all and (prefers-color-scheme: dark)" class="nightmode-light" href="https://www.ypbbs.cn/assets/forum.css?v=7ae35372" />
+<link rel="stylesheet" media="(prefers-color-scheme: dark)" class="nightmode-dark" href="https://www.ypbbs.cn/assets/forum-dark.css?v=d9de74ff" />
+<link rel="shortcut icon" href="https://www.ypbbs.cn/assets/favicon-txlbdm1w.png">
+
+        <script>
+            /* fof/nightmode workaround for browsers without (prefers-color-scheme) CSS media query support */
+            if (!window.matchMedia('not all and (prefers-color-scheme), (prefers-color-scheme)').matches) {
+                document.querySelector('link.nightmode-light').removeAttribute('media');
+            }
+        </script>
+        
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S3YRJF0STT"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+</script>
+
+    </head>
+
+    <body>
+        www.ypbbs.cn欢迎踊跃发帖！
+
+     
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id:"KadeQlgVd6COiBFg",ck:"KadeQlgVd6COiBFg"})</script>
+
+<div id="app" class="App">
+
+    <div id="app-navigation" class="App-navigation"></div>
+
+    <div id="drawer" class="App-drawer">
+
+        <header id="header" class="App-header">
+            <div id="header-navigation" class="Header-navigation"></div>
+            <div class="container">
+                <div class="Header-title">
+                    <a href="https://www.ypbbs.cn" id="home-link">
+                                                    云盘社区 www.ypbbs.cn
+                                            </a>
+                </div>
+                <div id="header-primary" class="Header-primary"></div>
+                <div id="header-secondary" class="Header-secondary"></div>
+            </div>
+        </header>
+
+    </div>
+
+    <main class="App-content">
+        <div id="content"></div>
+
+        <div id="flarum-loading" style="display: none">
+    正在加载…
+</div>
+
+<noscript>
+    <div class="Alert">
+        <div class="container">
+            请使用更现代的浏览器并启用 JavaScript 以获得最佳浏览体验。
+        </div>
+    </div>
+</noscript>
+
+<div id="flarum-loading-error" style="display: none">
+    <div class="Alert">
+        <div class="container">
+            加载论坛时出错，请强制刷新页面重试。
+        </div>
+    </div>
+</div>
+
+<noscript id="flarum-content">
+    
+</noscript>
+
+
+        <div class="App-composer">
+            <div class="container">
+                <div id="composer"></div>
+            </div>
+        </div>
+    </main>
+
+</div>
+
+
+
+
+        <div id="modal"></div>
+        <div id="alerts"></div>
+
+        <script>
+            document.getElementById('flarum-loading').style.display = 'block';
+            var flarum = {extensions: {}};
+        </script>
+
+        <script src="https://www.ypbbs.cn/assets/forum.js?v=adeabf80"></script>
+<script src="https://www.ypbbs.cn/assets/forum-zh-Hans.js?v=bd1bbe7b"></script>
+
+        <script id="flarum-json-payload" type="application/json">{"fof-nightmode.assets.day":"https:\/\/www.ypbbs.cn\/assets\/forum.css?v=7ae35372","fof-nightmode.assets.night":"https:\/\/www.ypbbs.cn\/assets\/forum-dark.css?v=d9de74ff","resources":[{"type":"forums","id":"1","attributes":{"title":"\u4e91\u76d8\u793e\u533a www.ypbbs.cn","description":"\u4e91\u76d8\u793e\u533a www.ypbbs.cn\uff0c\u5938\u514b\u8d44\u6e90,\u7f51\u76d8\u8d44\u6e90\u8bba\u575b\uff0c\u4e91\u76d8\u8d44\u6e90\u5206\u4eab\uff0c\u7f51\u76d8\u8d44\u6e90\u5206\u4eab\uff0c\u963f\u91cc\u4e91\u76d8\uff0c\u5938\u514b\u7f51\u76d8\uff0c\u8fc5\u96f7\u7f51\u76d8\uff0c\u767e\u5ea6\u7f51\u76d8\u7b49\u5404\u7f51\u76d8\u8d44\u6e90\u5206\u4eab","showLanguageSelector":true,"baseUrl":"https:\/\/www.ypbbs.cn","basePath":"","baseOrigin":"https:\/\/www.ypbbs.cn","debug":false,"apiUrl":"https:\/\/www.ypbbs.cn\/api","welcomeTitle":"\u4e91\u76d8\u793e\u533a www.ypbbs.cn","welcomeMessage":"\u4e91\u76d8\u793e\u533a www.ypbbs.cn\uff0c\u4e91\u76d8\u8d44\u6e90\u5206\u4eab\uff0c\u7f51\u76d8\u8d44\u6e90\u5206\u4eab\uff0c\u963f\u91cc\u4e91\u76d8\uff0c\u5938\u514b\u7f51\u76d8\uff0c\u8fc5\u96f7\u7f51\u76d8\uff0c\u767e\u5ea6\u7f51\u76d8\u7b49\u5404\u7f51\u76d8\u8d44\u6e90\u5206\u4eab","themePrimaryColor":"#4D698E","themeSecondaryColor":"#4D698E","logoUrl":null,"faviconUrl":"https:\/\/www.ypbbs.cn\/assets\/favicon-txlbdm1w.png","headerHtml":"www.ypbbs.cn\u6b22\u8fce\u8e0a\u8dc3\u53d1\u5e16\uff01","footerHtml":null,"allowSignUp":true,"defaultRoute":"\/all","canViewForum":true,"canStartDiscussion":false,"canSearchUsers":false,"canCreateAccessToken":false,"canModerateAccessTokens":false,"assetsBaseUrl":"https:\/\/www.ypbbs.cn\/assets","canViewFlags":false,"guidelinesUrl":"","canBypassTagCounts":false,"minPrimaryTags":"1","maxPrimaryTags":"8","minSecondaryTags":"0","maxSecondaryTags":"8","allowUsernameMentionFormat":true,"antoinefr-money.moneyname":"[money] Y\u5e01","antoinefr-money.noshowzero":"","displayNameDriver":"nickname","setNicknameOnRegistration":true,"randomizeUsernameOnRegistration":false,"afrux-forum-widgets-core.config":{"instances":[{"id":"afrux-news-widget:news","extension":"afrux-news-widget","key":"news","placement":"top","position":0},{"id":"afrux-forum-stats-widget:forumStats","extension":"afrux-forum-stats-widget","key":"forumStats","placement":"end","position":0},{"id":"afrux-online-users-widget:onlineUsers","extension":"afrux-online-users-widget","key":"onlineUsers","placement":"end","position":1},{"id":"afrux-top-posters-widget:topPosters","extension":"afrux-top-posters-widget","key":"topPosters","placement":"end","position":2},{"id":"justoverclock-popular-tags:PopularTags","extension":"justoverclock-popular-tags","key":"PopularTags","placement":"end","position":3},{"id":"justoverclock-hot-discussions:discHot","extension":"justoverclock-hot-discussions","key":"discHot","placement":"end","position":4}]},"afrux-forum-widgets-core.preferDataWithInitialLoad":true,"canSeeUserDirectoryLink":false,"userDirectoryDefaultSort":"default","userDirectorySmallCards":false,"userDirectoryDisableGlobalSearchSource":false,"userDirectoryLinkGroupMentions":true,"allowViewLeaderbaord":false,"moneyLeaderBoardIcon":"fas fa-sort-amount-up","moneyLeaderBoardEntryPosition":"0","moneyLeaderBoardAdditionalInfo":null,"moneyLeaderBoardHideMoneyText":null,"leaderboardMaxLoadCount":0,"leaderboardInitLoadCount":0,"leaderboardLoadMoreCount":0,"forumCheckinRewarMoney":1,"forumAutoCheckin":0,"forumAutoCheckinDelay":0,"forumCheckinTimeZone":0,"forumCheckinSuccessPromptType":1,"forumCheckinSuccessPromptText":"\u60a8\u5df2\u7b7e\u5230 [days] \u5929","forumCheckinSuccessPromptRewardText":"\u83b7\u5f97 [reward]\u5956\u52b1","allowCheckIn":false,"canMovePosts":false,"toggleFilter":true,"abbrNumber":"","showViewList":"0","showFooterViewList":"1","justoverclock-hot-discussions.discLimit":"20","synopsis.excerpt_length":200,"synopsis.rich_excerpts":false,"synopsis.excerpt_type":"first","synopsis.disable_when_searching":true,"ianm-follow-users.button-on-profile":true,"ianm-follow-users.stats-on-profile":true,"fof-user-bio.maxLength":200,"fof-user-bio.maxLines":0,"canStartPolls":false,"canStartGlobalPolls":false,"canUploadPollImages":false,"globalPollsEnabled":false,"allowPollOptionImage":false,"pollMaxOptions":10,"fofNightMode_autoUnsupportedFallback":1,"fofNightMode.showThemeToggleOnHeaderAlways":true,"fof-nightmode.default_theme":0,"canSaveDrafts":false,"canScheduleDrafts":false,"drafts.enableScheduledDrafts":true,"fof-doorman.allowPublic":true,"pusherKey":"3a3b96e3831519647dc3","pusherCluster":"ap3","flarum-lang-chinese-simplified.reformat_time":false,"flarum-lang-chinese-simplified.reformat_time_force":false,"canBypassAds":false,"scrollToTopButton":true,"scrollToBottomButton":true,"scrollToTopIcon":null,"scrollToBottomIcon":null,"emojioneAreaEnableSearch":true,"emojioneAreaEnableRecent":true,"emojioneAreaEnableTones":true,"emojioneAreaFiltersPositionBottom":false,"emojioneAreaSearchPositionBottom":false,"emojioneAreaHideFlarumButton":true,"independentBookmarkButton":true,"toggleRichTextEditorButton":false,"afrux-top-posters-widget.topPosterCounts":{"227":"3.31K","272":"222","380":"69","397":"52","408":"51"},"canViewLastSeenAt":false,"afrux-online-users-widget.maxUsers":15,"afrux-news-widget.lines":["\u6d4b\u8bd5\u8fd0\u884c\uff01\u6ce8\u518c\u9080\u8bf7\u7801\uff1aypbbs.cn"],"afrux-forum-stats-widget.stats":{"discussionCount":{"label":"\u4e3b\u9898","icon":"far fa-comments","value":47977,"prettyValue":"47.98K"},"userCount":{"label":"\u7528\u6237","icon":"fas fa-users","value":428,"prettyValue":"428"},"commentPostCount":{"label":"\u56de\u590d","icon":"far fa-comment-dots","value":48845,"prettyValue":"48.85K"}}},"relationships":{"groups":{"data":[{"type":"groups","id":"1"},{"type":"groups","id":"2"},{"type":"groups","id":"3"},{"type":"groups","id":"4"},{"type":"groups","id":"5"},{"type":"groups","id":"6"},{"type":"groups","id":"7"}]},"tags":{"data":[{"type":"tags","id":"1"},{"type":"tags","id":"2"},{"type":"tags","id":"3"},{"type":"tags","id":"4"},{"type":"tags","id":"5"},{"type":"tags","id":"6"},{"type":"tags","id":"7"},{"type":"tags","id":"16"},{"type":"tags","id":"17"},{"type":"tags","id":"19"},{"type":"tags","id":"32"},{"type":"tags","id":"33"},{"type":"tags","id":"34"},{"type":"tags","id":"39"},{"type":"tags","id":"40"},{"type":"tags","id":"41"},{"type":"tags","id":"42"},{"type":"tags","id":"43"},{"type":"tags","id":"44"},{"type":"tags","id":"45"},{"type":"tags","id":"47"},{"type":"tags","id":"49"},{"type":"tags","id":"51"}]},"links":{"data":[]},"topPosters":{"data":[{"type":"users","id":"227"},{"type":"users","id":"272"},{"type":"users","id":"380"},{"type":"users","id":"397"},{"type":"users","id":"408"}]},"onlineUsers":{"data":[{"type":"users","id":"407"},{"type":"users","id":"416"}]}}},{"type":"groups","id":"1","attributes":{"nameSingular":"\u7ba1\u7406\u5458","namePlural":"\u7ba1\u7406\u7ec4","color":"#B72A2A","icon":"fas fa-wrench","isHidden":0}},{"type":"groups","id":"2","attributes":{"nameSingular":"\u6e38\u5ba2","namePlural":"\u6e38\u5ba2","color":null,"icon":null,"isHidden":0}},{"type":"groups","id":"3","attributes":{"nameSingular":"\u6ce8\u518c\u7528\u6237","namePlural":"\u6ce8\u518c\u7528\u6237","color":null,"icon":null,"isHidden":0}},{"type":"groups","id":"4","attributes":{"nameSingular":"\u7248\u4e3b","namePlural":"\u7248\u4e3b\u7ec4","color":"#80349E","icon":"fas fa-bolt","isHidden":0}},{"type":"groups","id":"5","attributes":{"nameSingular":"VIP","namePlural":"VIP","color":"#ffe900","icon":"","isHidden":0}},{"type":"groups","id":"6","attributes":{"nameSingular":"\u6708\u5361","namePlural":"\u6708\u5361\u7ec4","color":"#7fa5e1","icon":"","isHidden":0}},{"type":"groups","id":"7","attributes":{"nameSingular":"\u5e74\u5361","namePlural":"\u5e74\u5361\u7ec4","color":"#3f63e4","icon":"","isHidden":0}},{"type":"tags","id":"1","attributes":{"name":"\u5938\u514b\u7f51\u76d8","description":"\u5938\u514b\u7f51\u76d8\u8d44\u6e90\u5206\u4eab\uff0c\u5938\u514b\u8d44\u6e90\uff0c\u5938\u514b\u7535\u5f71\uff0c\u5938\u514b\u5f71\u89c6\uff0c\u5938\u514b\u5b66\u4e60\u8d44\u6599\u7b49","slug":"kkwp","color":"#b4a2f2","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":26492,"position":1,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2025-12-15T09:01:40+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"2","attributes":{"name":"\u963f\u91cc\u4e91\u76d8","description":"\u963f\u91cc\u4e91\u76d8\u8d44\u6e90\u5206\u4eab\uff0c\u963f\u91cc\u4e91\u76d8\u8d44\u6e90\uff0c\u963f\u91cc\u4e91\u76d8\u7535\u5f71\uff0c\u963f\u91cc\u4e91\u76d8\u5f71\u89c6\uff0c\u963f\u91cc\u4e91\u76d8\u5b66\u4e60\u8d44\u6599\u7b49","slug":"alyp","color":"#3476df","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":7870,"position":2,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2025-12-15T04:16:17+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"3","attributes":{"name":"\u767e\u5ea6\u7f51\u76d8","description":"\u767e\u5ea6\u7f51\u76d8\u8d44\u6e90\u5206\u4eab\uff0c\u767e\u5ea6\u7f51\u76d8\u8d44\u6e90\uff0c\u767e\u5ea6\u7f51\u76d8\u7535\u5f71\uff0c\u767e\u5ea6\u7f51\u76d8\u5f71\u89c6\uff0c\u767e\u5ea6\u7f51\u76d8\u5b66\u4e60\u8d44\u6599\u7b49","slug":"bdwp","color":"#d7b375","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":235,"position":3,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2025-12-15T04:16:17+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"4","attributes":{"name":"\u8fc5\u96f7\u4e91\u76d8","description":"\u8fc5\u96f7\u4e91\u76d8\u8d44\u6e90\u5206\u4eab\uff0c\u8fc5\u96f7\u7f51\u76d8\u8d44\u6e90\uff0c\u8fc5\u96f7\u4e91\u76d8\u7535\u5f71\uff0c\u8fc5\u96f7\u4e91\u76d8\u5f71\u89c6\uff0c\u8fc5\u96f7\u7f51\u76d8\u5b66\u4e60\u8d44\u6599\u7b49","slug":"xlyp","color":"#4b1684","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":703,"position":4,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2025-12-15T04:16:17+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"5","attributes":{"name":"\u5176\u4ed6\u7f51\u76d8","description":"\u7f51\u76d8\u8d44\u6e90\u5206\u4eab\uff0c\u7f51\u76d8\u8d44\u6e90\uff0c\u7f51\u76d8\u7535\u5f71\uff0c\u7f51\u76d8\u5f71\u89c6\uff0c\u7f51\u76d8\u5b66\u4e60\u8d44\u6599\u7b49","slug":"qtwp","color":"#150404","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":0,"position":6,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":null,"canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"6","attributes":{"name":"\u7535\u5f71","description":"\u5938\u514b\u7535\u5f71\u8d44\u6e90\uff0c\u963f\u91cc\u4e91\u76d8\u7535\u5f71\u8d44\u6e90\uff0c\u767e\u5ea6\u7f51\u76d8\u7535\u5f71\u4e0b\u8f7d\uff0c\u8fc5\u96f7\u4e91\u76d8\uff0cUC\u7f51\u76d8\u7535\u5f71\u5206\u4eab","slug":"dy","color":"#c65141","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":4192,"position":9,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2025-12-15T04:16:17+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"7","attributes":{"name":"\u7535\u89c6\u5267","description":"\u5938\u514b\u7f8e\u5267\u8d44\u6e90\uff0c\u963f\u91cc\u4e91\u76d8\u56fd\u4ea7\u7535\u89c6\u5267\u8d44\u6e90\uff0c\u767e\u5ea6\u7f51\u76d8\u97e9\u5267\/\u65e5\u5267\u4e0b\u8f7d\uff0c\u8fc5\u96f7\u4e91\u76d8\uff0cUC\u7f51\u76d8\u7f51\u5267\u5206\u4eab","slug":"dsj","color":"#ea9c64","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":580,"position":10,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2025-12-14T16:42:26+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"16","attributes":{"name":"\u52a8\u6f2b\u52a8\u753b","description":"","slug":"dmdh","color":"#9637fc","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":1082,"position":12,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2025-12-15T08:14:39+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"17","attributes":{"name":"\u7c7b\u578b","description":"","slug":"lx","color":"#d4adf4","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":373,"position":8,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2025-12-14T16:42:26+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"19","attributes":{"name":"\u5730\u533a","description":"","slug":"dq","color":"#6f8e0f","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":704,"position":7,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2025-12-15T08:14:39+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"32","attributes":{"name":"\u97f3\u4e50\u97f3\u9891","description":"","slug":"yyyp","color":"#50ce4a","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":4767,"position":13,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2025-12-11T14:01:53+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"33","attributes":{"name":"\u7efc\u827a\u665a\u4f1a","description":"","slug":"zywh","color":"#dd6aed","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":665,"position":14,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2025-12-10T16:26:16+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"34","attributes":{"name":"\u5b66\u4e60\u6559\u80b2","description":"","slug":"xxjy","color":"#057530","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":37,"position":15,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2025-12-08T05:16:09+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"39","attributes":{"name":"\u77e5\u8bc6\u6559\u7a0b","description":"","slug":"zsjc","color":"#6d9ed6","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":933,"position":16,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2025-12-08T05:16:09+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"40","attributes":{"name":"\u4e66\u7c4d\u56fe\u7247","description":"","slug":"sjtp","color":"#d86650","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":5590,"position":17,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2025-12-05T10:17:27+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"41","attributes":{"name":"\u8f6f\u4ef6\u6e38\u620f","description":"","slug":"rjyx","color":"#a877d6","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":234,"position":18,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2025-11-30T04:03:05+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"42","attributes":{"name":"\u8d44\u6599\u7d20\u6750","description":"","slug":"zlsc","color":"#d67608","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":21,"position":19,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2025-10-19T14:25:02+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"43","attributes":{"name":"\u8d44\u6e90\u6c42\u52a9","description":"","slug":"zyqz","color":"#54ef4f","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":1,"position":21,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2024-10-10T10:49:43+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"44","attributes":{"name":"\u5176\u4ed6","description":"","slug":"qita","color":"#091e01","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":459,"position":22,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2024-12-18T00:37:03+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"45","attributes":{"name":"\u77ed\u5267","description":"","slug":"dj","color":"#0d5426","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":7762,"position":11,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2025-09-08T02:43:48+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"47","attributes":{"name":"\u5408\u96c6\u8d44\u6e90","description":"","slug":"hjzy","color":"#e0a308","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":131,"position":20,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2025-12-09T01:59:25+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"49","attributes":{"name":"UC\u7f51\u76d8","description":"UC\u7f51\u76d8\u8d44\u6e90\u5206\u4eab\uff0cUC\u7f51\u76d8\u8d44\u6e90\uff0cUC\u7f51\u76d8\u7535\u5f71\uff0cUC\u7f51\u76d8\u5f71\u89c6\uff0cUC\u7f51\u76d8\u5b66\u4e60\u8d44\u6599\u7b49","slug":"ucwp","color":"#661437","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":34,"position":5,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2025-12-12T14:31:20+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":null,"excerptLength":null}},{"type":"tags","id":"51","attributes":{"name":"\u7248\u4e3b\u7ba1\u7406","description":"\u4e91\u76d8\u793e\u533a \u516c\u544a\u901a\u77e5\u3001\u7248\u4e3b\u7ba1\u7406\u4ea4\u6d41\u3001\u8d44\u6e90\u63a8\u8350","slug":"bzgl","color":"#f907ad","backgroundUrl":null,"backgroundMode":null,"icon":"","discussionCount":1,"position":0,"defaultSort":null,"isChild":false,"isHidden":false,"lastPostedAt":"2024-10-12T11:13:39+00:00","canStartDiscussion":false,"canAddToDiscussion":false,"subscription":null,"richExcerpts":false,"excerptLength":null}},{"type":"users","id":"227","attributes":{"username":"avinup94286","displayName":"\u7231\u5206\u4eab","avatarUrl":null,"slug":"avinup94286","joinTime":"2025-07-06T00:21:28+00:00","discussionCount":14191,"commentCount":14189,"canEdit":false,"canEditCredentials":false,"canEditGroups":false,"canDelete":false,"lastSeenAt":"2025-12-15T08:53:14+00:00","followed":null,"followerCount":0,"followingCount":0,"canSuspend":false,"money":70945,"canEditMoney":false,"canEditNickname":false,"lastCheckinTime":null,"totalContinuousCheckIn":0,"checkInCompatibleExtensions":["fof-follow-tags"],"canCheckin":true,"canCheckinContinuous":false,"canBeFollowed":true}},{"type":"users","id":"272","attributes":{"username":"haijiao","displayName":"\u5c0f\u5938","avatarUrl":null,"slug":"haijiao","joinTime":"2025-07-25T10:22:43+00:00","discussionCount":569,"commentCount":569,"canEdit":false,"canEditCredentials":false,"canEditGroups":false,"canDelete":false,"lastSeenAt":"2025-12-14T12:46:45+00:00","followed":null,"followerCount":0,"followingCount":0,"canSuspend":false,"money":2888,"canEditMoney":false,"canEditNickname":false,"lastCheckinTime":"2025-08-29 12:31:18","totalContinuousCheckIn":1,"checkInCompatibleExtensions":["fof-follow-tags"],"canCheckin":true,"canCheckinContinuous":false,"canBeFollowed":true}},{"type":"users","id":"380","attributes":{"username":"yuyanyuyan","displayName":"\u96e8\u71d5","avatarUrl":"https:\/\/www.ypbbs.cn\/assets\/avatars\/iXzGEUu74yAoDysQ.png","slug":"yuyanyuyan","joinTime":"2025-11-09T06:52:53+00:00","discussionCount":76,"commentCount":79,"canEdit":false,"canEditCredentials":false,"canEditGroups":false,"canDelete":false,"lastSeenAt":"2025-12-15T04:16:17+00:00","followed":null,"followerCount":0,"followingCount":0,"canSuspend":false,"money":388,"canEditMoney":false,"canEditNickname":false,"lastCheckinTime":null,"totalContinuousCheckIn":0,"checkInCompatibleExtensions":["fof-follow-tags"],"canCheckin":true,"canCheckinContinuous":false,"canBeFollowed":true}},{"type":"users","id":"397","attributes":{"username":"Khaotrope","displayName":"Khaotrope","avatarUrl":null,"slug":"Khaotrope","joinTime":"2025-12-03T03:23:06+00:00","discussionCount":40,"commentCount":40,"canEdit":false,"canEditCredentials":false,"canEditGroups":false,"canDelete":false,"lastSeenAt":"2025-12-09T02:29:14+00:00","followed":null,"followerCount":0,"followingCount":0,"canSuspend":false,"money":202,"canEditMoney":false,"canEditNickname":false,"lastCheckinTime":"2025-12-05 07:51:18","totalContinuousCheckIn":1,"checkInCompatibleExtensions":["fof-follow-tags"],"canCheckin":true,"canCheckinContinuous":false,"canBeFollowed":true}},{"type":"users","id":"408","attributes":{"username":"MIFFY","displayName":"\u7231\u4e4b\u68a6\u68a6","avatarUrl":"https:\/\/www.ypbbs.cn\/assets\/avatars\/HweZIQgQs59OYw4L.png","slug":"MIFFY","joinTime":"2025-12-07T12:01:40+00:00","discussionCount":50,"commentCount":50,"canEdit":false,"canEditCredentials":false,"canEditGroups":false,"canDelete":false,"lastSeenAt":"2025-12-14T15:33:10+00:00","followed":null,"followerCount":0,"followingCount":0,"canSuspend":false,"money":257,"canEditMoney":false,"canEditNickname":false,"lastCheckinTime":"2025-12-14 05:20:04","totalContinuousCheckIn":3,"checkInCompatibleExtensions":["fof-follow-tags"],"canCheckin":true,"canCheckinContinuous":true,"canBeFollowed":true}},{"type":"users","id":"407","attributes":{"username":"East69","displayName":"H\u5440\uff01","avatarUrl":null,"slug":"East69","joinTime":"2025-12-07T10:13:57+00:00","discussionCount":11,"commentCount":11,"canEdit":false,"canEditCredentials":false,"canEditGroups":false,"canDelete":false,"lastSeenAt":"2025-12-15T09:02:14+00:00","followed":null,"followerCount":0,"followingCount":0,"canSuspend":false,"money":64,"canEditMoney":false,"canEditNickname":false,"lastCheckinTime":"2025-12-15 02:37:53","totalContinuousCheckIn":9,"checkInCompatibleExtensions":["fof-follow-tags"],"canCheckin":false,"canCheckinContinuous":true,"canBeFollowed":true}},{"type":"users","id":"416","attributes":{"username":"jin37138","displayName":"ghdghv","avatarUrl":null,"slug":"jin37138","joinTime":"2025-12-09T04:34:08+00:00","discussionCount":32,"commentCount":33,"canEdit":false,"canEditCredentials":false,"canEditGroups":false,"canDelete":false,"lastSeenAt":"2025-12-15T09:00:14+00:00","followed":null,"followerCount":0,"followingCount":0,"canSuspend":false,"money":168,"canEditMoney":false,"canEditNickname":false,"lastCheckinTime":"2025-12-15 08:50:26","totalContinuousCheckIn":7,"checkInCompatibleExtensions":["fof-follow-tags"],"canCheckin":false,"canCheckinContinuous":true,"canBeFollowed":true}}],"session":{"userId":0,"csrfToken":"zA45kQmp9KuSYRnGlFIGlqdrTDPKTNTBykoUt4ho"},"locales":{"zh-Hans":"\u7b80\u4f53\u4e2d\u6587"},"locale":"zh-Hans","fof-follow-tags.following_page_default":null,"googleTrackingCode":"G-S3YRJF0STT","davwheat-ads.ad-code.between_posts":"","davwheat-ads.ad-code.discussion_header":"","davwheat-ads.ad-code.discussion_sidebar":"","davwheat-ads.ad-code.footer":"","davwheat-ads.ad-code.header":"","davwheat-ads.ad-code.sidebar":"","davwheat-ads.ad-code.between_posts.js":"","davwheat-ads.ad-code.discussion_header.js":"","davwheat-ads.ad-code.discussion_sidebar.js":"","davwheat-ads.ad-code.footer.js":"","davwheat-ads.ad-code.header.js":"","davwheat-ads.ad-code.sidebar.js":"","davwheat-ads.between-n-posts":"15","davwheat-ads.enable-ad-after-placeholder":"0","davwheat-ads.enabled-ad-locations":"[]"}</script>
+
+        <script>
+            const data = JSON.parse(document.getElementById('flarum-json-payload').textContent);
+            document.getElementById('flarum-loading').style.display = 'none';
+
+            try {
+                flarum.core.app.load(data);
+                flarum.core.app.bootExtensions(flarum.extensions);
+                flarum.core.app.boot();
+            } catch (e) {
+                var error = document.getElementById('flarum-loading-error');
+                error.innerHTML += document.getElementById('flarum-content').textContent;
+                error.style.display = 'block';
+                throw e;
+            }
+        </script>
+
+        <script>
+flarum.core.compat.extend.extend(flarum.core.compat['components/CommentPost'].prototype, 'oncreate', function(output, vnode) {
+
+    var all_links = document.querySelectorAll('a');
+    
+    var excludes = ['domain0.com','www.domain1.com','domain2.com']; // Optionally exclude domains here
+    
+    for (var i = 0; i < all_links.length; i++){
+        var a = all_links[i];
+        var found = false; 
+        for(j=0; j<excludes.length; j++) {
+                if(a.href.includes(excludes[j])) {
+                    found = true;
+                    break;  
+                }
+        }    
+        if (!found) {
+                if (all_links[i].hostname != window.location.hostname) {
+                all_links[i].target = '_blank';
+                all_links[i].rel = 'noopener nofollow ugc';
+                all_links[i].classList.add('external-link');
+             } else {
+                all_links[i].rel = ''; 
+             }   
+          }  
+       } 
+  });
+</script>
+    </body>
+</html>
