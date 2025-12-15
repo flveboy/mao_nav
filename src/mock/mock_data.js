@@ -943,6 +943,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-w2sue8al-1765786899661",
+          "name": "Sun-Panel",
+          "url": "http://10.126.126.1:3032/#/",
+          "description": "Sun-Panel",
+          "icon": "/sitelogo/10.126.126.1.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-mitp4q7w-1763704246292",
           "name": "免费短剧网 - 全网短剧免费分享平台",
           "url": "https://a80.35240.com/",
