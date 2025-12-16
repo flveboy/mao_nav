@@ -959,6 +959,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-zh9sw7c2-1765880939459",
+          "name": "好学 :: 规则 - Powered by NexusPHP",
+          "url": "https://www.hxpt.org/rules.php",
+          "description": "好学 :: 规则 - Powered by NexusPHP",
+          "icon": "/sitelogo/hxpt.org.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-n1on4mub-1765788994491",
           "name": "夸克网盘音乐资源_无损音乐/热门歌曲下载 | 华语/欧美/日韩专辑合集–夸克网盘社",
           "url": "https://kuakes.com/music",
