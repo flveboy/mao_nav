@@ -951,6 +951,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-3czwaayj-1765858008543",
+          "name": "躺平 :: 种子 - Powered by NexusPHP",
+          "url": "https://www.tangpt.top/torrents.php",
+          "description": "躺平 :: 种子 - Powered by NexusPHP",
+          "icon": "/sitelogo/tangpt.top.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-n1on4mub-1765788994491",
           "name": "夸克网盘音乐资源_无损音乐/热门歌曲下载 | 华语/欧美/日韩专辑合集–夸克网盘社",
           "url": "https://kuakes.com/music",
