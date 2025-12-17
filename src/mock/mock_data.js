@@ -1007,6 +1007,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-s9r2cljn-1765948696188",
+          "name": "Navidrome",
+          "url": "https://music.crabpt.vip/app/#/playlist/147b7b47-7a5e-4b66-a93c-5c71d02a4a4c/show",
+          "description": "Navidrome",
+          "icon": "/sitelogo/music.crabpt.vip.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-tda1oytr-1765948355308",
           "name": "MoonTV",
           "url": "https://tv.crabpt.vip/",
