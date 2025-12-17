@@ -1023,6 +1023,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-gnxssub8-1765948418850",
+          "name": "Crab-Media Server",
+          "url": "https://emby.crabpt.vip/web/index.html",
+          "description": "Crab-Media Server",
+          "icon": "/sitelogo/emby.crabpt.vip.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-iq4ttm96-1765933937918",
           "name": "云盘分享网 www.ypfxw.com，网盘资源分享网站",
           "url": "http://www.alypw.cn/",
