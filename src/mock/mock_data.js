@@ -967,6 +967,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-g2itbcnj-1765935531709",
+          "name": "AFUN",
+          "url": "https://www.ptlover.cc/torrents.php",
+          "description": "AFUN",
+          "icon": "/sitelogo/ptlover.cc.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-n1on4mub-1765788994491",
           "name": "夸克网盘音乐资源_无损音乐/热门歌曲下载 | 华语/欧美/日韩专辑合集–夸克网盘社",
           "url": "https://kuakes.com/music",
