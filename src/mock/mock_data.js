@@ -975,6 +975,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-235bytok-1765941453389",
+          "name": "蟹黄堡 :: 首页 - Powered by NexusPHP",
+          "url": "https://crabpt.vip/index.php",
+          "description": "蟹黄堡 :: 首页 - Powered by NexusPHP",
+          "icon": "/sitelogo/crabpt.vip.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-n1on4mub-1765788994491",
           "name": "夸克网盘音乐资源_无损音乐/热门歌曲下载 | 华语/欧美/日韩专辑合集–夸克网盘社",
           "url": "https://kuakes.com/music",
