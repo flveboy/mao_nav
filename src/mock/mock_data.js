@@ -975,14 +975,6 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-90je67gm-1767000069365",
-          "name": "PTT :: 登录 - 分享你所爱，他所求，得我所愿！",
-          "url": "https://www.pttime.org/login.php?returnto=forums.php%3Faction%3Dviewtopic%26topicid%3D9%26page%3Dp11",
-          "description": "PTT :: 登录 - 分享你所爱，他所求，得我所愿！",
-          "icon": "/sitelogo/pttime.org.ico",
-          "_source": "gitee_bookmark"
-        },
-        {
           "id": "site-smo3rnbo-1767164097299",
           "name": "PTT :: 种子 - 分享你所爱，他所求，得我所愿！",
           "url": "https://www.pttime.org/torrents.php",
