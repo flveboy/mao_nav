@@ -895,14 +895,6 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-hhjyzvoe-1767111928158",
-          "name": "PTT :: 种子 - 分享你所爱，他所求，得我所愿！",
-          "url": "https://www.pttime.org/torrents.php",
-          "description": "PTT :: 种子 - 分享你所爱，他所求，得我所愿！",
-          "icon": "/sitelogo/pttime.org.ico",
-          "_source": "gitee_bookmark"
-        },
-        {
           "id": "site-p012v1xo-1766716353361",
           "name": "铂金短剧 :: 种子 - Powered by NexusPHP",
           "url": "https://www.ptskit.org/torrents.php?tag_id=8",
