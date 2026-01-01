@@ -983,14 +983,6 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-t9ny4s1n-1767201167379",
-          "name": "BTSCHOOL :: 种子 比特校园PT小乐园 - Powered by NexusPHP",
-          "url": "https://pt.btschool.club/torrents.php?spstate=4",
-          "description": "BTSCHOOL :: 种子 比特校园PT小乐园 - Powered by NexusPHP",
-          "icon": "/sitelogo/pt.btschool.club.ico",
-          "_source": "gitee_bookmark"
-        },
-        {
           "id": "site-6a1x0oo6-1766716353959",
           "name": "M-Team - TP :: 種子列表 - Powered by mTorrent",
           "url": "https://kp.m-team.cc/browse?team=44",
