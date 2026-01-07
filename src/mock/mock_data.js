@@ -991,6 +991,22 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-o2nc3nrj-1767755681183",
+          "name": "NovaHD :: 种子 - Powered by NexusPHP",
+          "url": "https://pt.novahd.top/torrents.php",
+          "description": "NovaHD :: 种子 - Powered by NexusPHP",
+          "icon": "/sitelogo/pt.novahd.top.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-x3bhwifg-1767755681236",
+          "name": "CarPT :: 种子 - Powered by NexusPHP",
+          "url": "https://carpt.net/torrents.php",
+          "description": "CarPT :: 种子 - Powered by NexusPHP",
+          "icon": "/sitelogo/carpt.net.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-6a1x0oo6-1766716353959",
           "name": "M-Team - TP :: 種子列表 - Powered by mTorrent",
           "url": "https://kp.m-team.cc/browse?team=44",
@@ -1012,6 +1028,14 @@ export const mockData = {
           "url": "https://hdblue.cc/",
           "description": "蓝影汇 - 蓝影汇",
           "icon": "/sitelogo/hdblue.cc.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-ez1d5ra1-1767755681301",
+          "name": "樱花🌸 :: 种子 - Powered by NexusPHP",
+          "url": "https://pt.ying.us.kg/torrents.php",
+          "description": "樱花🌸 :: 种子 - Powered by NexusPHP",
+          "icon": "/sitelogo/pt.ying.us.kg.ico",
           "_source": "gitee_bookmark"
         },
         {
@@ -2519,6 +2543,38 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-b5uo3f2y-1767755681183",
+          "name": "GitHub - qist/tvbox: OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
+          "url": "https://github.com/qist/tvbox",
+          "description": "GitHub - qist/tvbox: OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
+          "icon": "/sitelogo/github.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-4nea9l3p-1767755681183",
+          "name": "GitHub - qist/tvbox: OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
+          "url": "https://github.com/qist/tvbox?tab=readme-ov-file",
+          "description": "GitHub - qist/tvbox: OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
+          "icon": "/sitelogo/github.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-07brsoo9-1767755681183",
+          "name": "GitHub - tushen6/Tomorrow: tvbox 影视仓 OK影视 配置接口",
+          "url": "https://github.com/tushen6/Tomorrow",
+          "description": "GitHub - tushen6/Tomorrow: tvbox 影视仓 OK影视 配置接口",
+          "icon": "/sitelogo/github.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-u7o09l50-1767755681183",
+          "name": "GitHub - hmjz100/LinkSwift: 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+          "url": "https://github.com/hmjz100/LinkSwift",
+          "description": "GitHub - hmjz100/LinkSwift: 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+          "icon": "/sitelogo/github.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-rfxeii1y-1763704239358",
           "name": "GitHub - vo-soft/vic-diary-releases: 支持markdown语法输入、所见即所得的跨平台日记软件",
           "url": "https://github.com/vo-soft/vic-diary-releases",
@@ -2535,11 +2591,11 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-lotvfykx-1763704241214",
-          "name": "推荐机场 | 3月18日22.3M/S|免费VPN/V2ray/Shadowrocket/SSR/Clash免费节点链接地址",
-          "url": "https://tuijianjichang.github.io/free-nodes/2025-3-18-free-node-subscribe-links.htm",
-          "description": "推荐机场 | 3月18日22.3M/S|免费VPN/V2ray/Shadowrocket/SSR/Clash免费节点链接地址",
-          "icon": "/sitelogo/tuijianjichang.github.io.ico",
+          "id": "site-w1l8ltnj-1763704246277",
+          "name": "bookMarkSync: 同步浏览器数据 - Gitee.com",
+          "url": "https://gitee.com/no225/book-mark-sync/tree/master",
+          "description": "bookMarkSync: 同步浏览器数据 - Gitee.com",
+          "icon": "/sitelogo/gitee.com.ico",
           "_source": "gitee_bookmark"
         },
         {
@@ -2551,11 +2607,11 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-w1l8ltnj-1763704246277",
-          "name": "bookMarkSync: 同步浏览器数据 - Gitee.com",
-          "url": "https://gitee.com/no225/book-mark-sync/tree/master",
-          "description": "bookMarkSync: 同步浏览器数据 - Gitee.com",
-          "icon": "/sitelogo/gitee.com.ico",
+          "id": "site-lotvfykx-1763704241214",
+          "name": "推荐机场 | 3月18日22.3M/S|免费VPN/V2ray/Shadowrocket/SSR/Clash免费节点链接地址",
+          "url": "https://tuijianjichang.github.io/free-nodes/2025-3-18-free-node-subscribe-links.htm",
+          "description": "推荐机场 | 3月18日22.3M/S|免费VPN/V2ray/Shadowrocket/SSR/Clash免费节点链接地址",
+          "icon": "/sitelogo/tuijianjichang.github.io.ico",
           "_source": "gitee_bookmark"
         }
       ]
@@ -2844,6 +2900,14 @@ export const mockData = {
           "url": "https://blog.loong.us.ci/",
           "description": "Maple Blog | 一个简单的Liquid Glass风格的静态网站系统",
           "icon": "/sitelogo/blog.loong.us.ci.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-juljd99t-1767755678189",
+          "name": "怡氧 - 一站式生产力工具集",
+          "url": "https://www.eo2suite.cn/home/index",
+          "description": "怡氧 - 一站式生产力工具集",
+          "icon": "/sitelogo/eo2suite.cn.ico",
           "_source": "gitee_bookmark"
         },
         {
