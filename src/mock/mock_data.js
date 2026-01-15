@@ -1727,14 +1727,6 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-ssi30ett-1768440060259",
-          "name": "青蛙 :: 用户详情 - loong - Powered by NexusPHP",
-          "url": "https://www.qingwapt.com/userdetails.php?id=707703",
-          "description": "青蛙 :: 用户详情 - loong - Powered by NexusPHP",
-          "icon": "/sitelogo/qingwapt.com.ico",
-          "_source": "gitee_bookmark"
-        },
-        {
           "id": "site-ek468duk-1763704239563",
           "name": "Qwen",
           "url": "https://chat.qwen.ai/",
