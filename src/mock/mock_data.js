@@ -2423,14 +2423,6 @@ export const mockData = {
           "_source": "manual"
         },
         {
-          "id": "site-huryyqz9-1767755685355",
-          "name": "怡氧 - 一站式生产力工具集",
-          "url": "https://www.eo2suite.cn/home/index",
-          "description": "怡氧 - 一站式生产力工具集",
-          "icon": "/sitelogo/eo2suite.cn.ico",
-          "_source": "gitee_bookmark"
-        },
-        {
           "id": "site-ispzv7ii-1763704238519",
           "name": "模板 - Canva可画",
           "url": "https://www.canva.cn/templates/",
@@ -2476,6 +2468,14 @@ export const mockData = {
           "url": "https://icon-sets.iconify.design/",
           "description": "Iconify - home of open source icons",
           "icon": "/sitelogo/icon-sets.iconify.design.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-huryyqz9-1767755685355",
+          "name": "怡氧 - 一站式生产力工具集",
+          "url": "https://www.eo2suite.cn/home/index",
+          "description": "怡氧 - 一站式生产力工具集",
+          "icon": "/sitelogo/eo2suite.cn.ico",
           "_source": "gitee_bookmark"
         },
         {
