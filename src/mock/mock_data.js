@@ -2215,14 +2215,6 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-8dv8ongr-1767755688013",
-          "name": "GitHub - qist/tvbox: OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
-          "url": "https://github.com/qist/tvbox?tab=readme-ov-file",
-          "description": "GitHub - qist/tvbox: OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
-          "icon": "/sitelogo/github.com.ico",
-          "_source": "gitee_bookmark"
-        },
-        {
           "id": "site-9p4smlgz-1763704174800",
           "name": "股票操作列表",
           "url": "https://flveboy.github.io/stock/index.html",
