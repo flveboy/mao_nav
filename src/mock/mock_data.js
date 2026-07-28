@@ -207,6 +207,46 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-1zo89u7m-1785211618835",
+          "name": "Vibe Code 控制台",
+          "url": "https://new.sharedchat.cc/list/#/vibe-code/dashboard?activeMenu=dashboard&#38;service=codex",
+          "description": "Vibe Code 控制台",
+          "icon": "/sitelogo/new.sharedchat.cc.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-xiyiga4l-1785211619003",
+          "name": "FreeModel — One API for every frontier model",
+          "url": "https://freemodel.dev/dashboard/keys",
+          "description": "FreeModel — One API for every frontier model",
+          "icon": "/sitelogo/freemodel.dev.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-a7azzvz1-1785211619804",
+          "name": "New API",
+          "url": "https://api.hcnsec.cn/console",
+          "description": "New API",
+          "icon": "/sitelogo/api.hcnsec.cn.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-zcy3e1qz-1785211619812",
+          "name": "RRR API",
+          "url": "https://rrrapi.com/keys",
+          "description": "RRR API",
+          "icon": "/sitelogo/rrrapi.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-76ida75j-1785211619935",
+          "name": "CCLL.xyz",
+          "url": "https://ccll.xyz/console/personal",
+          "description": "CCLL.xyz",
+          "icon": "/sitelogo/ccll.xyz.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-y1ceipwi-1763704135932",
           "name": "在线免费文字转语音 - TTSMaker官网 | 马克配音",
           "url": "https://ttsmaker.cn/",
@@ -276,6 +316,30 @@ export const mockData = {
           "url": "http://form.cc1234.cc/",
           "description": "Obsidian Form Flow",
           "icon": "/sitelogo/form.cc1234.cc.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-86hfbz5a-1785211619969",
+          "name": "Hermes Agent | Nous Research",
+          "url": "https://hermes-agent.nousresearch.com/",
+          "description": "Hermes Agent | Nous Research",
+          "icon": "/sitelogo/hermes-agent.nousresearch.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-bxd3p1wf-1785211620033",
+          "name": "好用的 Skill 去哪找? | Hermes Agent 中文社区 | Hermes Agent 中文社区",
+          "url": "https://hermesagent.org.cn/skills",
+          "description": "好用的 Skill 去哪找? | Hermes Agent 中文社区 | Hermes Agent 中文社区",
+          "icon": "/sitelogo/hermesagent.org.cn.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-gp8dfelu-1785211623456",
+          "name": "AxonHub",
+          "url": "http://localhost:8090/",
+          "description": "AxonHub",
+          "icon": "/sitelogo/localhost.ico",
           "_source": "gitee_bookmark"
         },
         {
@@ -423,6 +487,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-vphu9k1q-1785211629330",
+          "name": "Download Clash Mi/下载Clash Mi | Clash Mi Project",
+          "url": "https://clashmi.app/download",
+          "description": "Download Clash Mi/下载Clash Mi | Clash Mi Project",
+          "icon": "/sitelogo/clashmi.app.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-egja841i-1772446290015",
           "name": "藏宝阁 :: 首页 - Powered by NexusPHP",
           "url": "https://cangbao.ge/index.php",
@@ -468,6 +540,14 @@ export const mockData = {
           "url": "https://www.ptskit.org/index.php",
           "description": "拾刻 :: 首页 - Powered by NexusPHP",
           "icon": "/sitelogo/ptskit.org.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-qqbocbge-1785211629396",
+          "name": "LongPT插件系统",
+          "url": "https://longpt.org/plugins/index",
+          "description": "LongPT插件系统",
+          "icon": "/sitelogo/longpt.org.ico",
           "_source": "gitee_bookmark"
         },
         {
@@ -887,14 +967,6 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-hqvg463b-1780908640783",
-          "name": "LongPT :: 控制面板 - 首页 - Powered by NexusPHP",
-          "url": "https://longpt.org/usercp.php",
-          "description": "LongPT :: 控制面板 - 首页 - Powered by NexusPHP",
-          "icon": "/sitelogo/longpt.org.ico",
-          "_source": "gitee_bookmark"
-        },
-        {
           "id": "site-md7znd3l-1780908640856",
           "name": "Sunny :: 首页 - Powered by NexusPHP",
           "url": "https://sunnypt.top/index.php",
@@ -927,107 +999,67 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-tda1oytr-1765948355308",
-          "name": "MoonTV",
-          "url": "https://tv.crabpt.vip/",
-          "description": "MoonTV",
-          "icon": "/sitelogo/tv.crabpt.vip.ico",
+          "id": "site-tfe2m4s8-1785211629397",
+          "name": "OpenCD :: 登錄",
+          "url": "https://www.open.cd/login.php",
+          "description": "OpenCD :: 登錄",
+          "icon": "/sitelogo/open.cd.ico",
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-vt6eu9b1-1765948400179",
-          "name": "MoviePilot",
-          "url": "https://mp.crabpt.vip/#/subscribe/movie",
-          "description": "MoviePilot",
-          "icon": "/sitelogo/mp.crabpt.vip.ico",
+          "id": "site-ljuo2rte-1785211631085",
+          "name": "TTG",
+          "url": "https://totheglory.im/browse.php?c=M",
+          "description": "TTG",
+          "icon": "/sitelogo/totheglory.im.ico",
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-gnxssub8-1765948418850",
-          "name": "Crab-Media Server",
-          "url": "https://emby.crabpt.vip/web/index.html",
-          "description": "Crab-Media Server",
-          "icon": "/sitelogo/emby.crabpt.vip.ico",
+          "id": "site-epxgfs1z-1785211631615",
+          "name": "首页 :: PT@KEEPFRDS - Powered by NexusPHP",
+          "url": "https://pt.keepfrds.com/index.php",
+          "description": "首页 :: PT@KEEPFRDS - Powered by NexusPHP",
+          "icon": "/sitelogo/pt.keepfrds.com.ico",
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-qpvzx3nc-1763966750116",
-          "name": "观影 GYING",
-          "url": "https://www.gyg.st/",
-          "description": "观影 GYING",
-          "icon": "/sitelogo/gyg.st.ico",
+          "id": "site-ay4vv6u2-1785211631727",
+          "name": "Moment :: 首页 - Powered by NexusPHP",
+          "url": "https://www.momentpt.top/index.php",
+          "description": "Moment :: 首页 - Powered by NexusPHP",
+          "icon": "/sitelogo/momentpt.top.ico",
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-osl5ct79-1763704173272",
-          "name": "高清乐园",
-          "url": "https://www.xiukee.net/",
-          "description": "高清乐园",
-          "icon": "/sitelogo/xiukee.net.ico",
+          "id": "site-5zheyrmg-1785211632674",
+          "name": "News :: JPopsuki 2.0",
+          "url": "https://jpopsuki.eu/index.php",
+          "description": "News :: JPopsuki 2.0",
+          "icon": "/sitelogo/jpopsuki.eu.ico",
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-ia52hvy2-1763704206053",
-          "name": "搜片.com - 搜你想看的影片",
-          "url": "https://soupian.pro/?ref=itotii",
-          "description": "搜片.com - 搜你想看的影片",
-          "icon": "/sitelogo/soupian.pro.ico",
+          "id": "site-8opq10ox-1785211633115",
+          "name": "昆仑 :: 种子 永恒 - Powered by NexusPHP",
+          "url": "https://www.yhpp.cc/torrents.php",
+          "description": "昆仑 :: 种子 永恒 - Powered by NexusPHP",
+          "icon": "/sitelogo/yhpp.cc.ico",
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-f786416d-1763704215684",
-          "name": "免费短剧网 - 全网短剧免费分享平台",
-          "url": "https://g.35240.com/",
-          "description": "免费短剧网 - 全网短剧免费分享平台",
-          "icon": "/sitelogo/g.35240.com.ico",
+          "id": "site-ysykgnmt-1785211634538",
+          "name": "音乐乌托邦 :: 种子 - Powered by NexusPHP",
+          "url": "https://www.musopia.vip/torrents.php",
+          "description": "音乐乌托邦 :: 种子 - Powered by NexusPHP",
+          "icon": "/sitelogo/musopia.vip.ico",
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-spk0miw4-1763958961245",
-          "name": "观影地址发布页",
-          "url": "https://www.gying.page/",
-          "description": "观影地址发布页",
-          "icon": "/sitelogo/gying.page.ico",
-          "_source": "gitee_bookmark"
-        },
-        {
-          "id": "site-qvv4wpwy-1772446294802",
-          "name": "飞牛影视",
-          "url": "https://www.fnsh.cc/",
-          "description": "飞牛影视",
-          "icon": "/sitelogo/fnsh.cc.ico",
-          "_source": "gitee_bookmark"
-        },
-        {
-          "id": "site-p2crpvek-1772446296773",
-          "name": "HDvision",
-          "url": "https://www.hdvision.cc/",
-          "description": "HDvision",
-          "icon": "/sitelogo/hdvision.cc.ico",
-          "_source": "gitee_bookmark"
-        },
-        {
-          "id": "site-kh89bucg-1780908641218",
-          "name": "gying.si",
-          "url": "https://www.gying.si/",
-          "description": "gying.si",
-          "icon": "/sitelogo/gying.si.ico",
-          "_source": "gitee_bookmark"
-        },
-        {
-          "id": "site-ufl5huo3-1780908642528",
-          "name": "v2pan.com",
-          "url": "https://v2pan.com/",
-          "description": "v2pan.com",
-          "icon": "/sitelogo/v2pan.com.ico",
-          "_source": "gitee_bookmark"
-        },
-        {
-          "id": "site-9xy012hb-1780908642575",
-          "name": "PanSou 盘搜",
-          "url": "https://pansou.jin.dpdns.org/",
-          "description": "PanSou 盘搜",
-          "icon": "/sitelogo/pansou.jin.dpdns.org.ico",
+          "id": "site-wsafagmx-1785211634810",
+          "name": "LongPT :: 种子 - Powered by NexusPHP",
+          "url": "https://longpt.org/torrents.php",
+          "description": "LongPT :: 种子 - Powered by NexusPHP",
+          "icon": "/sitelogo/longpt.org.ico",
           "_source": "gitee_bookmark"
         },
         {
@@ -1375,14 +1407,6 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
-          "id": "site-8gbcmhka-1780908644915",
-          "name": "Depth Studio :: 任务 - Powered by NexusPHP",
-          "url": "https://dstudio.me/task.php",
-          "description": "Depth Studio :: 任务 - Powered by NexusPHP",
-          "icon": "/sitelogo/dstudio.me.ico",
-          "_source": "gitee_bookmark"
-        },
-        {
           "id": "site-2955z5yp-1780908644915",
           "name": "Depth Studio :: 签到 - Powered by NexusPHP",
           "url": "https://dstudio.me/attendance.php",
@@ -1396,6 +1420,214 @@ export const mockData = {
           "url": "https://pt.gtkpw.xyz/attendance.php",
           "description": "PT GTK :: 签到 BT|电影|韩剧|美剧|日剧|资源|下载|影视|剧集|电影资源|学习资料 - Powered by NexusPHP",
           "icon": "/sitelogo/pt.gtkpw.xyz.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-8gbcmhka-1780908644915",
+          "name": "Depth Studio :: 任务 - Powered by NexusPHP",
+          "url": "https://dstudio.me/task.php",
+          "description": "Depth Studio :: 任务 - Powered by NexusPHP",
+          "icon": "/sitelogo/dstudio.me.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-oex12uj6-1785211634811",
+          "name": "M-Team - TP :: 魔力值 - Powered by mTorrent",
+          "url": "https://kp.m-team.cc/mybonus",
+          "description": "M-Team - TP :: 魔力值 - Powered by mTorrent",
+          "icon": "/sitelogo/kp.m-team.cc.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-61bijr9m-1785211634811",
+          "name": "CHDBits :: loongx的魔力值 - Powered by NexusPHP",
+          "url": "https://ptchdbits.co/mybonus.php",
+          "description": "CHDBits :: loongx的魔力值 - Powered by NexusPHP",
+          "icon": "/sitelogo/ptchdbits.co.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-073momsi-1785211634811",
+          "name": "loong的魔力值 :: PT@KEEPFRDS - Powered by NexusPHP",
+          "url": "https://pt.keepfrds.com/mybonus.php",
+          "description": "loong的魔力值 :: PT@KEEPFRDS - Powered by NexusPHP",
+          "icon": "/sitelogo/pt.keepfrds.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-x4rzgsqb-1785211634811",
+          "name": "Moment :: 签到 - Powered by NexusPHP",
+          "url": "https://www.momentpt.top/attendance.php",
+          "description": "Moment :: 签到 - Powered by NexusPHP",
+          "icon": "/sitelogo/momentpt.top.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-50oujkrg-1785211634877",
+          "name": "昆仑 :: 签到 永恒 - Powered by NexusPHP",
+          "url": "https://www.yhpp.cc/attendance.php",
+          "description": "昆仑 :: 签到 永恒 - Powered by NexusPHP",
+          "icon": "/sitelogo/yhpp.cc.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-whgunqsd-1785211634877",
+          "name": "音乐乌托邦 :: 签到 - Powered by NexusPHP",
+          "url": "https://www.musopia.vip/attendance.php",
+          "description": "音乐乌托邦 :: 签到 - Powered by NexusPHP",
+          "icon": "/sitelogo/musopia.vip.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-xhvs3tt9-1785211634877",
+          "name": "Rule Index :: JPopsuki 2.0",
+          "url": "https://jpopsuki.eu/rules.php",
+          "description": "Rule Index :: JPopsuki 2.0",
+          "icon": "/sitelogo/jpopsuki.eu.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-054qb216-1785211634877",
+          "name": "OpenCD :: loong的魔力值",
+          "url": "https://www.open.cd/mybonus.php",
+          "description": "OpenCD :: loong的魔力值",
+          "icon": "/sitelogo/open.cd.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-1p1rm4o9-1785211634877",
+          "name": "总结 - loong - TTFF.NET",
+          "url": "https://ttff.net/u/loong/summary",
+          "description": "总结 - loong - TTFF.NET",
+          "icon": "/sitelogo/ttff.net.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-bipigpen-1785211635234",
+          "name": "TTG :: loong的积分",
+          "url": "https://totheglory.im/mybonus.php",
+          "description": "TTG :: loong的积分",
+          "icon": "/sitelogo/totheglory.im.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-eimuzvdq-1785211635234",
+          "name": "思齐 :: 签到 高清图书站 - Powered by NexusPHP",
+          "url": "https://si-qi.xyz/attendance.php",
+          "description": "思齐 :: 签到 高清图书站 - Powered by NexusPHP",
+          "icon": "/sitelogo/si-qi.xyz.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-z8l9l2gx-1785211635622",
+          "name": "SUNNYPT",
+          "url": "https://sunnypt.top/user/attendance",
+          "description": "SUNNYPT",
+          "icon": "/sitelogo/sunnypt.top.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-tda1oytr-1765948355308",
+          "name": "MoonTV",
+          "url": "https://tv.crabpt.vip/",
+          "description": "MoonTV",
+          "icon": "/sitelogo/tv.crabpt.vip.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-vt6eu9b1-1765948400179",
+          "name": "MoviePilot",
+          "url": "https://mp.crabpt.vip/#/subscribe/movie",
+          "description": "MoviePilot",
+          "icon": "/sitelogo/mp.crabpt.vip.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-gnxssub8-1765948418850",
+          "name": "Crab-Media Server",
+          "url": "https://emby.crabpt.vip/web/index.html",
+          "description": "Crab-Media Server",
+          "icon": "/sitelogo/emby.crabpt.vip.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-qpvzx3nc-1763966750116",
+          "name": "观影 GYING",
+          "url": "https://www.gyg.st/",
+          "description": "观影 GYING",
+          "icon": "/sitelogo/gyg.st.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-osl5ct79-1763704173272",
+          "name": "高清乐园",
+          "url": "https://www.xiukee.net/",
+          "description": "高清乐园",
+          "icon": "/sitelogo/xiukee.net.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-ia52hvy2-1763704206053",
+          "name": "搜片.com - 搜你想看的影片",
+          "url": "https://soupian.pro/?ref=itotii",
+          "description": "搜片.com - 搜你想看的影片",
+          "icon": "/sitelogo/soupian.pro.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-f786416d-1763704215684",
+          "name": "免费短剧网 - 全网短剧免费分享平台",
+          "url": "https://g.35240.com/",
+          "description": "免费短剧网 - 全网短剧免费分享平台",
+          "icon": "/sitelogo/g.35240.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-spk0miw4-1763958961245",
+          "name": "观影地址发布页",
+          "url": "https://www.gying.page/",
+          "description": "观影地址发布页",
+          "icon": "/sitelogo/gying.page.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-qvv4wpwy-1772446294802",
+          "name": "飞牛影视",
+          "url": "https://www.fnsh.cc/",
+          "description": "飞牛影视",
+          "icon": "/sitelogo/fnsh.cc.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-p2crpvek-1772446296773",
+          "name": "HDvision",
+          "url": "https://www.hdvision.cc/",
+          "description": "HDvision",
+          "icon": "/sitelogo/hdvision.cc.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-kh89bucg-1780908641218",
+          "name": "gying.si",
+          "url": "https://www.gying.si/",
+          "description": "gying.si",
+          "icon": "/sitelogo/gying.si.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-ufl5huo3-1780908642528",
+          "name": "v2pan.com",
+          "url": "https://v2pan.com/",
+          "description": "v2pan.com",
+          "icon": "/sitelogo/v2pan.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-9xy012hb-1780908642575",
+          "name": "PanSou 盘搜",
+          "url": "https://pansou.jin.dpdns.org/",
+          "description": "PanSou 盘搜",
+          "icon": "/sitelogo/pansou.jin.dpdns.org.ico",
           "_source": "gitee_bookmark"
         },
         {
@@ -1796,6 +2028,30 @@ export const mockData = {
           "url": "http://192.168.31.162:4205/",
           "description": "fnos - 飞牛 fnOS",
           "icon": "/sitelogo/192.168.31.162.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-0co8yd8o-1785211635627",
+          "name": "仪表盘",
+          "url": "http://dell:7476/dashboard",
+          "description": "仪表盘",
+          "icon": "/sitelogo/dell.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-r3c2ipee-1785211635670",
+          "name": "IYUUPlus",
+          "url": "http://dell:8780/app/admin",
+          "description": "IYUUPlus",
+          "icon": "/sitelogo/dell.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-1kh1pf1n-1785211635687",
+          "name": "持仓账本",
+          "url": "http://10.126.126.1:8086/",
+          "description": "持仓账本",
+          "icon": "/sitelogo/10.126.126.1.ico",
           "_source": "gitee_bookmark"
         }
       ]
@@ -2375,6 +2631,62 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-yzwy7aqm-1785211617844",
+          "name": "Sub2API 部署与账号导入教程：把订阅账号统一转换成 API Key_sub2api官网教程-CSDN博客",
+          "url": "https://blog.csdn.net/miluir/article/details/160558078?spm=1001.2101.3001.6650.1&#38;utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~Ctr-1-160558078-blog-161173038.235%5Ev43%5Epc_blog_bottom_relevance_base9&#38;depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~Ctr-1-160558078-blog-161173038.235%5Ev43%5Epc_blog_bottom_relevance_base9&#38;utm_relevant_index=1",
+          "description": "Sub2API 部署与账号导入教程：把订阅账号统一转换成 API Key_sub2api官网教程-CSDN博客",
+          "icon": "/sitelogo/blog.csdn.net.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-pdep5tkm-1785211617844",
+          "name": "拒绝token焦虑 cpa（CLI Proxy API）反代 chatgpt（Codex） 保姆级全图文教程_人工智能_我认不到你-AtomGit开源社区",
+          "url": "https://gitcode.csdn.net/69fb0a3c54b52172bc720931.html",
+          "description": "拒绝token焦虑 cpa（CLI Proxy API）反代 chatgpt（Codex） 保姆级全图文教程_人工智能_我认不到你-AtomGit开源社区",
+          "icon": "/sitelogo/gitcode.csdn.net.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-mpyq2y0u-1785211618794",
+          "name": "Agnes",
+          "url": "https://platform.agnes-ai.com/",
+          "description": "Agnes",
+          "icon": "/sitelogo/platform.agnes-ai.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-wmpjk8qg-1785211618955",
+          "name": "创建账户 - 斑马API - AI API 中转站",
+          "url": "https://bmapi.020212.xyz/register?aff=ZBQ7DND8KT2G",
+          "description": "创建账户 - 斑马API - AI API 中转站",
+          "icon": "/sitelogo/bmapi.020212.xyz.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-uyk5cqw5-1785211619114",
+          "name": "新疆幻城网安科技公益大模型api",
+          "url": "https://api.iamhc.cn/console",
+          "description": "新疆幻城网安科技公益大模型api",
+          "icon": "/sitelogo/api.iamhc.cn.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-rxlce8f1-1785211619865",
+          "name": "Free lyclaude",
+          "url": "https://free.lyclaude.site/console",
+          "description": "Free lyclaude",
+          "icon": "/sitelogo/free.lyclaude.site.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-f5fq7cgy-1785211619968",
+          "name": "新疆幻城网安科技公益大模型api",
+          "url": "https://api.hcnsec.cn/profile",
+          "description": "新疆幻城网安科技公益大模型api",
+          "icon": "/sitelogo/api.hcnsec.cn.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-cj16zhv0-1764827570304",
           "name": "Vector Magic：将 JPG、PNG 图像转换成 SVG、EPS、AI 矢量图像",
           "url": "https://zh.vectormagic.com/",
@@ -2436,6 +2748,14 @@ export const mockData = {
           "url": "https://notegen.top/cn",
           "description": "NoteGen - Markdown AI 笔记软件",
           "icon": "/sitelogo/notegen.top.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-ta9eqvep-1785211620033",
+          "name": "CC Switch 完全指南：统一管理 Claude Code、Codex、Gemini CLI、OpenCode、OpenClaw - 小灰灰的笔记",
+          "url": "https://www.tinyash.com/blog/cc-switch/",
+          "description": "CC Switch 完全指南：统一管理 Claude Code、Codex、Gemini CLI、OpenCode、OpenClaw - 小灰灰的笔记",
+          "icon": "/sitelogo/tinyash.com.ico",
           "_source": "gitee_bookmark"
         },
         {
@@ -2527,6 +2847,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-eiige6ow-1785211623488",
+          "name": "My Google AI Studio App",
+          "url": "https://loongblog.ai.studio/",
+          "description": "My Google AI Studio App",
+          "icon": "/sitelogo/loongblog.ai.studio.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-h0wo0qns-1763704241132",
           "name": "付费机场订阅推荐，支持Clash/V2ray/Surge/VMESS等客户端和协议 - Free Singbox节点订阅官网",
           "url": "https://freesingbox.github.io/paid-subscribe/",
@@ -2564,6 +2892,22 @@ export const mockData = {
           "url": "https://www.hddolby.com/userdetails.php?id=46035",
           "description": "HDDolby :: 用户详情 - loong - Powered by NexusPHP",
           "icon": "/sitelogo/hddolby.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-j5cfkk5q-1785211631830",
+          "name": "HAIDAN :: 首页 海胆之家 - Powered by NexusPHP",
+          "url": "https://www.haidan.cc/index.php",
+          "description": "HAIDAN :: 首页 海胆之家 - Powered by NexusPHP",
+          "icon": "/sitelogo/haidan.cc.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-u4u76qmg-1785211634811",
+          "name": "HAIDAN :: 等级积分 海胆之家 - Powered by NexusPHP",
+          "url": "https://www.haidan.cc/classpoint.php",
+          "description": "HAIDAN :: 等级积分 海胆之家 - Powered by NexusPHP",
+          "icon": "/sitelogo/haidan.cc.ico",
           "_source": "gitee_bookmark"
         },
         {
@@ -2835,6 +3179,14 @@ export const mockData = {
           "name": "【干货】一图看懂：Codex无限注册 → 暂存 → 反代理使用-腾讯云开发者社区-腾讯云",
           "url": "https://cloud.tencent.com/developer/article/2656538",
           "description": "【干货】一图看懂：Codex无限注册 → 暂存 → 反代理使用-腾讯云开发者社区-腾讯云",
+          "icon": "/sitelogo/cloud.tencent.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-5hwk5zzd-1785211618794",
+          "name": "【反代神器】反代神器Cli-Proxy-API，解决IP限制问题，多API管理-腾讯云开发者社区-腾讯云",
+          "url": "https://cloud.tencent.com/developer/article/2656537?policyId=1004",
+          "description": "【反代神器】反代神器Cli-Proxy-API，解决IP限制问题，多API管理-腾讯云开发者社区-腾讯云",
           "icon": "/sitelogo/cloud.tencent.com.ico",
           "_source": "gitee_bookmark"
         },
@@ -3247,6 +3599,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-1uspdggl-1785211623487",
+          "name": "CPA-Manager-Plus/README_CN.md at main · seakee/CPA-Manager-Plus",
+          "url": "https://github.com/seakee/CPA-Manager-Plus/blob/main/README_CN.md",
+          "description": "CPA-Manager-Plus/README_CN.md at main · seakee/CPA-Manager-Plus",
+          "icon": "/sitelogo/github.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-9p4smlgz-1763704174800",
           "name": "股票操作列表",
           "url": "https://flveboy.github.io/stock/index.html",
@@ -3284,6 +3644,14 @@ export const mockData = {
           "url": "https://tuijianjichang.github.io/free-nodes/2025-3-18-free-node-subscribe-links.htm",
           "description": "推荐机场 | 3月18日22.3M/S|免费VPN/V2ray/Shadowrocket/SSR/Clash免费节点链接地址",
           "icon": "/sitelogo/tuijianjichang.github.io.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-721pw13z-1785211629396",
+          "name": "Release Clash Verge Rev v2.5.1 · clash-verge-rev/clash-verge-rev · GitHub",
+          "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.1",
+          "description": "Release Clash Verge Rev v2.5.1 · clash-verge-rev/clash-verge-rev · GitHub",
+          "icon": "/sitelogo/github.com.ico",
           "_source": "gitee_bookmark"
         },
         {
@@ -3388,6 +3756,14 @@ export const mockData = {
           "url": "https://bbs.pcbeta.com/",
           "description": "论坛 - 远景论坛 - 微软极客社区",
           "icon": "/sitelogo/bbs.pcbeta.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-v5ujf63x-1785211635622",
+          "name": "SSD :: 论坛 - Powered by NexusPHP",
+          "url": "https://springsunday.net/forums.php",
+          "description": "SSD :: 论坛 - Powered by NexusPHP",
+          "icon": "/sitelogo/springsunday.net.ico",
           "_source": "gitee_bookmark"
         },
         {
@@ -3743,6 +4119,14 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-92o16mmv-1780908644915",
+          "name": "ＰＴ之友俱乐部 :: 查看主题 &#34;简易PTer.Club猫站转发资源教程&#34; PTerClub",
+          "url": "https://pterclub.net/forums.php?action=viewtopic&#38;forumid=2&#38;topicid=1348",
+          "description": "ＰＴ之友俱乐部 :: 查看主题 &#34;简易PTer.Club猫站转发资源教程&#34; PTerClub",
+          "icon": "/sitelogo/pterclub.net.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-kcus3rhx-1763704239358",
           "name": "Navicat Premium 16、17 破解版激活详细教程（注册机无需断网 亲测有效） - 一池寒潭 - 博客园",
           "url": "https://www.cnblogs.com/FRIM/p/16978145.html",
@@ -3780,14 +4164,6 @@ export const mockData = {
           "url": "https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
           "description": "JavaScript 基础 - 学习 Web 开发 | MDN",
           "icon": "/sitelogo/developer.mozilla.org.ico",
-          "_source": "gitee_bookmark"
-        },
-        {
-          "id": "site-92o16mmv-1780908644915",
-          "name": "ＰＴ之友俱乐部 :: 查看主题 &#34;简易PTer.Club猫站转发资源教程&#34; PTerClub",
-          "url": "https://pterclub.net/forums.php?action=viewtopic&#38;forumid=2&#38;topicid=1348",
-          "description": "ＰＴ之友俱乐部 :: 查看主题 &#34;简易PTer.Club猫站转发资源教程&#34; PTerClub",
-          "icon": "/sitelogo/pterclub.net.ico",
           "_source": "gitee_bookmark"
         }
       ]
@@ -3927,6 +4303,22 @@ export const mockData = {
           "_source": "gitee_bookmark"
         },
         {
+          "id": "site-1mxx7qds-1780908644915",
+          "name": "1PTBA.COM :: 签到 1PTBA,壹PT吧,PT下载,教育视频,课件资源,发布教育类,学习类,纪录片等资源 - Powered by NexusPHP",
+          "url": "https://1ptba.com/attendance.php",
+          "description": "1PTBA.COM :: 签到 1PTBA,壹PT吧,PT下载,教育视频,课件资源,发布教育类,学习类,纪录片等资源 - Powered by NexusPHP",
+          "icon": "/sitelogo/1ptba.com.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-gpxdo2ma-1780908644915",
+          "name": "bilibili.download | 526: Invalid SSL certificate",
+          "url": "https://bilibili.download/attendance.php",
+          "description": "bilibili.download | 526: Invalid SSL certificate",
+          "icon": "/sitelogo/bilibili.download.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
           "id": "site-s7x46koj-1763704107143",
           "name": "哔哩哔哩",
           "url": "https://www.bilibili.com/",
@@ -3956,22 +4348,6 @@ export const mockData = {
           "url": "https://pinglian.lol/index.php",
           "description": "盘链 - 高质量视频资源搜索平台",
           "icon": "/sitelogo/pinglian.lol.ico",
-          "_source": "gitee_bookmark"
-        },
-        {
-          "id": "site-1mxx7qds-1780908644915",
-          "name": "1PTBA.COM :: 签到 1PTBA,壹PT吧,PT下载,教育视频,课件资源,发布教育类,学习类,纪录片等资源 - Powered by NexusPHP",
-          "url": "https://1ptba.com/attendance.php",
-          "description": "1PTBA.COM :: 签到 1PTBA,壹PT吧,PT下载,教育视频,课件资源,发布教育类,学习类,纪录片等资源 - Powered by NexusPHP",
-          "icon": "/sitelogo/1ptba.com.ico",
-          "_source": "gitee_bookmark"
-        },
-        {
-          "id": "site-gpxdo2ma-1780908644915",
-          "name": "bilibili.download | 526: Invalid SSL certificate",
-          "url": "https://bilibili.download/attendance.php",
-          "description": "bilibili.download | 526: Invalid SSL certificate",
-          "icon": "/sitelogo/bilibili.download.ico",
           "_source": "gitee_bookmark"
         },
         {
@@ -4060,6 +4436,14 @@ export const mockData = {
           "url": "https://open.feishu.cn/app/cli_a9340622ae781bb5/auth",
           "description": "权限管理 - 阿飞 - 开发者后台",
           "icon": "/sitelogo/open.feishu.cn.ico",
+          "_source": "gitee_bookmark"
+        },
+        {
+          "id": "site-123urp6k-1785211620033",
+          "name": "Hermes Agent安装与部署指南：一步步教你如何使用“爱马仕Agent”（附飞书接入教程） - 飞书官网",
+          "url": "https://www.feishu.cn/content/article/7630758640865037530",
+          "description": "Hermes Agent安装与部署指南：一步步教你如何使用“爱马仕Agent”（附飞书接入教程） - 飞书官网",
+          "icon": "/sitelogo/feishu.cn.ico",
           "_source": "gitee_bookmark"
         }
       ]
